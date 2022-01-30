@@ -25,9 +25,10 @@ main () {
   #curl -s https://api.github.com/users/${user}/repos?per_page=100 | grep '"full_name":' | cut -d'"' -f4 > etc/repositories.list
 
   ## Classifier
-  if [ -z "stop" ]; then
+  if [ -z "" ]; then
     remote="https://raw.githubusercontent.com"
     auth_param=
+    rm -f etc/repositories/*.list
     while IFS="" read -r repo || [ -n "$repo" ]; do
       uri="${repo}/main"
       url="${remote}/${uri}"
