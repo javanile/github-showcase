@@ -33,6 +33,10 @@ main () {
       url="${remote}/${uri}"
       if url_exists "${url}/composer.json?$(date +%s)" "${auth_param}"; then
         echo $repo >> etc/repositories/php-package.list
+      elif url_exists "${url}/package.json?$(date +%s)" "${auth_param}"; then
+        echo $repo >> etc/repositories/nodejs-package.list
+      elif url_exists "${url}/CNAME?$(date +%s)" "${auth_param}"; then
+        echo $repo >> etc/repositories/website.list
       else
         echo $repo >> etc/repositories/miscellaneous.list
       fi
