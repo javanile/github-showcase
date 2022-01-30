@@ -1,29 +1,21 @@
 #!/usr/bin/env bash
 
 url_exists () {
-    local auth_param exists url
-
-    url="${1}"
-    auth_param="${2:-}"
-
-    exists=0
-
-    if [[ "${auth_param}" ]];then
-      status=$(curl --silent -L -w '%{http_code}' -o '/dev/null' -u "${auth_param}" "${url}")
-      result="$?"
-    else
-      status=$(curl --silent -L -w '%{http_code}' -o '/dev/null' "${url}")
-      result="$?"
-    fi
-
-    # In some rare cases, curl will return CURLE_WRITE_ERROR (23) when writing
-    # to `/dev/null`. In such a case we do not care that such an error occured.
-    # We are only interested in the status, which *will* be available regardless.
-    if [[ '0' != "${result}" && '23' != "${result}" ]] || (( status >= 400 )); then
-      exists=1
-    fi
-
-    return "${exists}"
+  local auth_param exists url
+  url="${1}"
+  auth_param="${2:-}"
+  exists=0
+  if [[ "${auth_param}" ]]; then
+    status=$(curl --silent -L -w '%{http_code}' -o '/dev/null' -u "${auth_param}" "${url}")
+    result="$?"
+  else
+    status=$(curl --silent -L -w '%{http_code}' -o '/dev/null' "${url}")
+    result="$?"
+  fi
+  if [[ '0' != "${result}" && '23' != "${result}" ]] || (( status >= 400 )); then
+    exists=1
+  fi
+  return "${exists}"
 }
 
 main () {
@@ -51,7 +43,7 @@ main () {
   while IFS="" read -r category || [ -n "$category" ]; do
     echo "### ${category#*=}" >> README.md
     while IFS="" read -r repository || [ -n "$repository" ]; do
-      echo "* [$repo](https://github.com/$repo)" >> README.md
+      echo "* [$repository](https://github.com/$repository)" >> README.md
     done < etc/repositories/${category%=*}.list
   done < etc/categories.list
 }
