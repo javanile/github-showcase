@@ -42,7 +42,7 @@ main () {
         url="${remote}/${repository}/master"
         badges="${badges} :poop:"
       fi
-      entry="${repository} $badges"
+      entry="${repository}: $badges"
       if url_exists "${url}/composer.json?$(date +%s)" "${auth_param}"; then
         echo ${entry} >> etc/repositories/php-package.list
       elif url_exists "${url}/package.json?$(date +%s)" "${auth_param}"; then
@@ -59,11 +59,11 @@ main () {
 
   ## Generate sections
   while IFS="" read -r category || [ -n "$category" ]; do
-    if [ -s etc/repositories/${category%=*}.list ]; then
-      echo "### ${category#*=}" >> README.md
+    if [ -s etc/repositories/${category%:*}.list ]; then
+      echo "### ${category#*:}" >> README.md
       while IFS="" read -r repository || [ -n "$repository" ]; do
-        echo "* ${repository#* } [${repository%% *}](https://github.com/${repository%% *})" >> README.md
-      done < etc/repositories/${category%=*}.list
+        echo "* ${repository#*:} [${repository%%:*}](https://github.com/${repository%%:*})" >> README.md
+      done < etc/repositories/${category%:*}.list
     fi
   done < etc/categories.list
 }
