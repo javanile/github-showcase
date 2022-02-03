@@ -22,7 +22,10 @@ main () {
   echo "# Javanile (showcase)" > README.md
 
   user=javanile
-  #curl -s https://api.github.com/users/${user}/repos?per_page=100 | grep '"full_name":' | cut -d'"' -f4 > etc/repositories.list
+  rm -f etc/repositories.list
+  curl -s "https://api.github.com/users/${user}/repos?page=1&per_page=2"
+  exit
+   # | grep '"full_name":' | cut -d'"' -f4 >> etc/repositories.list
 
   ## Classifier
   if [ -z "" ]; then
