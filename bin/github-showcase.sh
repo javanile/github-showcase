@@ -19,40 +19,46 @@ url_exists () {
 }
 
 main () {
-  echo "# Javanile (showcase)" > README.md
+  user=$(git config --get remote.origin.url | cut -d: -f2 | cut -d/ -f4)
 
-  user=javanile
-  rm -f etc/repositories.list
-  curl -s "https://api.github.com/users/${user}/repos?page=1&per_page=2"
-  exit
-   # | grep '"full_name":' | cut -d'"' -f4 >> etc/repositories.list
+  echo "# ${user} (showcase)" > README.md
 
-  ## Classifier
-  if [ -z "" ]; then
+  ## Get the list of repositories
+  rm -f etc/repositories.list > /dev/null 2>&1
+  for page in {1..2}; do
+    curl -s "https://api.github.com/users/${user}/repos?page=${page}&per_page=2" | grep '"full_name":' | cut -d'"' -f4 >> etc/repositories.list
+  done
+
+  ## Repositories classifier
+  if [ -s etc/repositories.list ]; then
     remote="https://raw.githubusercontent.com"
     auth_param=
     rm -f etc/repositories/*.list
-    while IFS="" read -r repo || [ -n "$repo" ]; do
-      uri="${repo}/main"
+    while IFS="" read -r repository || [ -n "$repository" ]; do
+      uri="${repository}/main"
       url="${remote}/${uri}"
       if url_exists "${url}/composer.json?$(date +%s)" "${auth_param}"; then
-        echo $repo >> etc/repositories/php-package.list
+        echo ${repository} >> etc/repositories/php-package.list
       elif url_exists "${url}/package.json?$(date +%s)" "${auth_param}"; then
-        echo $repo >> etc/repositories/nodejs-package.list
+        echo ${repository} >> etc/repositories/nodejs-package.list
       elif url_exists "${url}/CNAME?$(date +%s)" "${auth_param}"; then
-        echo $repo >> etc/repositories/website.list
+        echo ${repository} >> etc/repositories/website.list
+      elif url_exists "${url}/Dockerfile?$(date +%s)" "${auth_param}"; then
+        echo ${repository} >> etc/repositories/docker.list
       else
-        echo $repo >> etc/repositories/miscellaneous.list
+        echo ${repository} >> etc/repositories/miscellaneous.list
       fi
     done < etc/repositories.list
   fi
 
-  ##
+  ## Generate sections
   while IFS="" read -r category || [ -n "$category" ]; do
-    echo "### ${category#*=}" >> README.md
-    while IFS="" read -r repository || [ -n "$repository" ]; do
-      echo "* [$repository](https://github.com/$repository)" >> README.md
-    done < etc/repositories/${category%=*}.list
+    if [ -s etc/repositories/${category%=*}.list ]; then
+      echo "### ${category#*=}" >> README.md
+      while IFS="" read -r repository || [ -n "$repository" ]; do
+        echo "* [$repository](https://github.com/$repository)" >> README.md
+      done < etc/repositories/${category%=*}.list
+    fi
   done < etc/categories.list
 }
 

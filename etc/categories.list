@@ -1,3 +1,4 @@
+docker=Docker Images
 php-package=PHP Packages
 nodejs-package=NodeJS Packages
 website=Websites
