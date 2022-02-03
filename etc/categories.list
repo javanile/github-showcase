@@ -1,5 +1,5 @@
-docker= :whale2: Docker Images
-php-package= :elephant: PHP Packages
+docker= Docker Images :whale2:
+php-package= PHP Packages :elephant:
 nodejs-package= NodeJS Packages
 website= Websites
 miscellaneous= Miscellaneous
