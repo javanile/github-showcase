@@ -35,18 +35,24 @@ main () {
     auth_param=
     rm -f etc/repositories/*.list
     while IFS="" read -r repository || [ -n "$repository" ]; do
-      uri="${repository}/main"
-      url="${remote}/${uri}"
-      if url_exists "${url}/composer.json?$(date +%s)" "${auth_param}"; then
-        echo ${repository} >> etc/repositories/php-package.list
-      elif url_exists "${url}/package.json?$(date +%s)" "${auth_param}"; then
-        echo ${repository} >> etc/repositories/nodejs-package.list
-      elif url_exists "${url}/CNAME?$(date +%s)" "${auth_param}"; then
-        echo ${repository} >> etc/repositories/website.list
-      elif url_exists "${url}/Dockerfile?$(date +%s)" "${auth_param}"; then
-        echo ${repository} >> etc/repositories/docker.list
+      badges=
+      url="${remote}/${repository}/master"
+      if url_exists "${url}/README.md?$(date +%s)" "${auth_param}"; then
+        badges="${badges} OUT"
       else
-        echo ${repository} >> etc/repositories/miscellaneous.list
+        url="${remote}/${repository}/main"
+      fi
+      entry="${repository} $badges"
+      if url_exists "${url}/composer.json?$(date +%s)" "${auth_param}"; then
+        echo ${entry} >> etc/repositories/php-package.list
+      elif url_exists "${url}/package.json?$(date +%s)" "${auth_param}"; then
+        echo ${entry} >> etc/repositories/nodejs-package.list
+      elif url_exists "${url}/CNAME?$(date +%s)" "${auth_param}"; then
+        echo ${entry} >> etc/repositories/website.list
+      elif url_exists "${url}/Dockerfile?$(date +%s)" "${auth_param}"; then
+        echo ${entry} >> etc/repositories/docker.list
+      else
+        echo ${entry} >> etc/repositories/miscellaneous.list
       fi
     done < etc/repositories.list
   fi
