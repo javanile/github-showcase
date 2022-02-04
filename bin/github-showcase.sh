@@ -45,6 +45,8 @@ main () {
       entry="${repository}= $badges"
       if url_exists "${url}/composer.json?$(date +%s)" "${auth_param}"; then
         echo ${entry} >> etc/repositories/php-package.list
+      elif url_exists "${url}/bpkg.json?$(date +%s)" "${auth_param}"; then
+        echo ${entry} >> etc/repositories/shell-package.list
       elif url_exists "${url}/package.json?$(date +%s)" "${auth_param}"; then
         echo ${entry} >> etc/repositories/nodejs-package.list
       elif url_exists "${url}/CNAME?$(date +%s)" "${auth_param}"; then

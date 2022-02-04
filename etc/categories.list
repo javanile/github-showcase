@@ -1,4 +1,5 @@
 docker= Docker Images :whale2:
+shell-package= Shell Packages :shell:
 php-package= PHP Packages :elephant:
 nodejs-package= NodeJS Packages :rhinoceros:
 website= Websites :earth_africa:
