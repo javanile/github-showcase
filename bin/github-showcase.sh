@@ -3,7 +3,7 @@
 url_exists () {
   local auth_param exists url
   url="${1}"
-  echo $url
+  #echo $url
   auth_param="${2:-}"
   exists=0
   if [[ "${auth_param}" ]]; then
@@ -40,7 +40,7 @@ main () {
       url="${remote}/${repository}/main"
       if ! url_exists "${url}/README.md?$(date +%s)" "${auth_param}"; then
         url="${remote}/${repository}/master"
-        badges="${badges} :poop:"
+        badges="${badges} :sleepy:"
       fi
       entry="${repository}= $badges"
       if url_exists "${url}/composer.json?$(date +%s)" "${auth_param}"; then
@@ -62,7 +62,7 @@ main () {
     if [ -s etc/repositories/${category%=*}.list ]; then
       echo "### ${category#*=}" >> README.md
       while IFS="" read -r repository || [ -n "$repository" ]; do
-        echo "* ${repository#*=} [${repository%%=*}](https://github.com/${repository%%=*})" >> README.md
+        echo "* [${repository%%=*}](https://github.com/${repository%%=*}) ${repository#*=}" >> README.md
       done < etc/repositories/${category%=*}.list
     fi
   done < etc/categories.list
