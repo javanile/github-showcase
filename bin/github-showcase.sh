@@ -53,6 +53,8 @@ main () {
         echo ${entry} >> etc/repositories/website.list
       elif url_exists "${url}/Dockerfile?$(date +%s)" "${auth_param}"; then
         echo ${entry} >> etc/repositories/docker.list
+      elif url_exists "${url}/Dockerfile.template?$(date +%s)" "${auth_param}"; then
+        echo ${entry} >> etc/repositories/docker.list
       else
         echo ${entry} >> etc/repositories/miscellaneous.list
       fi
