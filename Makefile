@@ -1,7 +1,7 @@
 #!make
 
 build:
-	@bash bin/github-showcase.sh
+	@bash github-showcase
 
 publish: build
 	@git add . && git commit -am "Publish updates" || true
