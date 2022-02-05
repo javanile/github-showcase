@@ -26,7 +26,7 @@ main () {
 
   ## Get the list of repositories
   rm -f etc/repositories.list > /dev/null 2>&1
-  for page in {7..8}; do
+  for page in {10..12}; do
     curl -s "https://api.github.com/users/${user}/repos?page=${page}&per_page=2" | grep '"full_name":' | cut -d'"' -f4 >> etc/repositories.list
   done
 
