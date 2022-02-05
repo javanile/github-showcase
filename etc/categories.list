@@ -3,5 +3,6 @@ shell-package= Shell Packages :shell:
 php-package= PHP Packages :elephant:
 nodejs-package= NodeJS Packages :rhinoceros:
 website= Websites :earth_africa:
+awesome= Awesome Lists :sunglasses:
 miscellaneous= Miscellaneous :briefcase:
-heroku= Heroku Apps 
+heroku= Heroku Apps :cloud:
