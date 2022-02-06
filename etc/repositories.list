@@ -1,6 +1,6 @@
-javanile/curlmail
-javanile/define
-javanile/dist.sh
-javanile/docker-ci
-javanile/docker-compose-job
-javanile/docker-hooks
+javanile/docs.javanile.org
+javanile/dotenv
+javanile/editorconfig
+javanile/email-test
+javanile/env.sh
+javanile/eventy

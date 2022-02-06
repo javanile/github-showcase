@@ -26,7 +26,7 @@ main () {
 
   ## Get the list of repositories
   rm -f etc/repositories.list > /dev/null 2>&1
-  for page in {13..15}; do
+  for page in {16..18}; do
     curl -s "https://api.github.com/users/${user}/repos?page=${page}&per_page=2" | grep '"full_name":' | cut -d'"' -f4 >> etc/repositories.list
   done
 
@@ -53,6 +53,8 @@ main () {
         echo ${entry} >> etc/repositories/shell-package.list
       elif url_exists "${url}/package.json?$(date +%s)" "${auth_param}"; then
         echo ${entry} >> etc/repositories/nodejs-package.list
+      elif url_exists "${url}/docs/CNAME?$(date +%s)" "${auth_param}"; then
+        echo ${entry} >> etc/repositories/website.list
       elif url_exists "${url}/CNAME?$(date +%s)" "${auth_param}"; then
         echo ${entry} >> etc/repositories/website.list
       elif url_exists "${url}/Dockerfile?$(date +%s)" "${auth_param}"; then

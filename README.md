@@ -1,10 +1,10 @@
 # javanile (showcase)
-###  Docker Images :whale2:
-* [javanile/docker-ci](https://github.com/javanile/docker-ci) 
-* [javanile/docker-compose-job](https://github.com/javanile/docker-compose-job) 
 ###  PHP Packages :elephant:
-* [javanile/define](https://github.com/javanile/define) 
+* [javanile/dotenv](https://github.com/javanile/dotenv)  :sleepy:
+* [javanile/eventy](https://github.com/javanile/eventy) 
+###  Websites :earth_africa:
+* [javanile/docs.javanile.org](https://github.com/javanile/docs.javanile.org)  :sleepy:
+* [javanile/editorconfig](https://github.com/javanile/editorconfig) 
 ###  Miscellaneous :briefcase:
-* [javanile/curlmail](https://github.com/javanile/curlmail) 
-* [javanile/dist.sh](https://github.com/javanile/dist.sh) 
-* [javanile/docker-hooks](https://github.com/javanile/docker-hooks) 
+* [javanile/email-test](https://github.com/javanile/email-test) 
+* [javanile/env.sh](https://github.com/javanile/env.sh)  :sleepy:
