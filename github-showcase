@@ -26,7 +26,7 @@ main () {
 
   ## Get the list of repositories
   rm -f etc/repositories.list > /dev/null 2>&1
-  for page in {22..24}; do
+  for page in {1..2}; do
     curl -s "https://api.github.com/users/${user}/repos?page=${page}&per_page=2" | grep '"full_name":' | cut -d'"' -f4 >> etc/repositories.list
   done
 
@@ -38,10 +38,6 @@ main () {
     while IFS="" read -r repository || [ -n "$repository" ]; do
       badges=
       url="${remote}/${repository}/main"
-      if ! url_exists "${url}/README.md?$(date +%s)" "${auth_param}"; then
-        url="${remote}/${repository}/master"
-        badges="${badges} :sleepy:"
-      fi
       entry="${repository}= $badges"
       if [[ "${repository}" == *"/blog."* ]]; then
         echo ${entry} >> etc/repositories/website.list
@@ -72,7 +68,9 @@ main () {
     if [ -s etc/repositories/${category%=*}.list ]; then
       echo "### ${category#*=}" >> README.md
       while IFS="" read -r repository || [ -n "$repository" ]; do
-        echo "* [${repository%%=*}](https://github.com/${repository%%=*}) ${repository#*=}" >> README.md
+        repository_data=$(curl -s "https://api.github.com/repos/${repository%%=*}")
+        description=$(echo "$repository_data" | grep '"description":' | cut -d'"' -f4)
+        echo "* [${repository%%=*}](https://github.com/${repository%%=*}) ${repository#*=} - ${description}" >> README.md
       done < etc/repositories/${category%=*}.list
     fi
   done < etc/categories.list
