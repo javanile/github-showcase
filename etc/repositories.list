@@ -1,6 +1,6 @@
-javanile/cliz
-javanile/composer
-javanile/contributing
-javanile/cron-expression
-javanile/cronicle-client
-javanile/cuba
+javanile/curlmail
+javanile/define
+javanile/dist.sh
+javanile/docker-ci
+javanile/docker-compose-job
+javanile/docker-hooks

@@ -1,12 +1,10 @@
 # javanile (showcase)
 ###  Docker Images :whale2:
-* [javanile/composer](https://github.com/javanile/composer)  :sleepy:
+* [javanile/docker-ci](https://github.com/javanile/docker-ci) 
+* [javanile/docker-compose-job](https://github.com/javanile/docker-compose-job) 
 ###  PHP Packages :elephant:
-* [javanile/cron-expression](https://github.com/javanile/cron-expression)  :sleepy:
-###  NodeJS Packages :rhinoceros:
-* [javanile/cliz](https://github.com/javanile/cliz)  :sleepy:
-* [javanile/cronicle-client](https://github.com/javanile/cronicle-client)  :sleepy:
-###  Websites :earth_africa:
-* [javanile/cuba](https://github.com/javanile/cuba) 
+* [javanile/define](https://github.com/javanile/define) 
 ###  Miscellaneous :briefcase:
-* [javanile/contributing](https://github.com/javanile/contributing) 
+* [javanile/curlmail](https://github.com/javanile/curlmail) 
+* [javanile/dist.sh](https://github.com/javanile/dist.sh) 
+* [javanile/docker-hooks](https://github.com/javanile/docker-hooks) 
