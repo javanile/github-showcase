@@ -23,6 +23,9 @@ main () {
   user=$(git config --get remote.origin.url | cut -d: -f2 | cut -d/ -f4)
 
   echo "# ${user} (showcase)" > README.md
+  echo "![Last Update](https://img.shields.io/badge/Last%20Update-$(date +%Y--%m--%d%%20%H%%3A%M%%3A%S)-blue)" >> README.md
+
+  exit
 
   ## Get the list of repositories
   rm -f etc/repositories.list > /dev/null 2>&1
