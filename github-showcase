@@ -39,6 +39,10 @@ main () {
     while IFS="" read -r repository || [ -n "$repository" ]; do
       badges=
       url="${remote}/${repository}/main"
+      if ! url_exists "${url}/README.md?$(date +%s)" "${auth_param}"; then
+        url="${remote}/${repository}/master"
+        badges="${badges} :sleepy:"
+      fi
       entry="${repository}= $badges"
       if [[ "${repository}" == *"/blog."* ]]; then
         echo ${entry} >> etc/repositories/website.list
@@ -46,6 +50,10 @@ main () {
         echo ${entry} >> etc/repositories/awesome.list
       elif url_exists "${url}/composer.json?$(date +%s)" "${auth_param}"; then
         echo ${entry} >> etc/repositories/php-package.list
+      elif url_exists "${url}/webrequest.php?$(date +%s)" "${auth_param}"; then
+        echo ${entry} >> etc/repositories/no-code.list
+      elif url_exists "${url}/action.yml?$(date +%s)" "${auth_param}"; then
+        echo ${entry} >> etc/repositories/github-action.list
       elif url_exists "${url}/bpkg.json?$(date +%s)" "${auth_param}"; then
         echo ${entry} >> etc/repositories/shell-package.list
       elif url_exists "${url}/package.json?$(date +%s)" "${auth_param}"; then

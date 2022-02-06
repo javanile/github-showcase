@@ -1,7 +1,9 @@
 docker= Docker Images :whale2:
 shell-package= Shell Packages :shell:
+github-action= GitHub Actions :octocat:
 php-package= PHP Packages :elephant:
 nodejs-package= NodeJS Packages :rhinoceros:
+no-code= No-code/Low-code :bike:
 website= Websites :earth_africa:
 awesome= Awesome Lists :sunglasses:
 miscellaneous= Miscellaneous :briefcase:
