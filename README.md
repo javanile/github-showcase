@@ -1,10 +1,9 @@
 # javanile (showcase)
-###  PHP Packages :elephant:
-* [javanile/dotenv](https://github.com/javanile/dotenv)  :sleepy:
-* [javanile/eventy](https://github.com/javanile/eventy) 
-###  Websites :earth_africa:
-* [javanile/docs.javanile.org](https://github.com/javanile/docs.javanile.org)  :sleepy:
-* [javanile/editorconfig](https://github.com/javanile/editorconfig) 
+###  NodeJS Packages :rhinoceros:
+* [javanile/fixedsys-css](https://github.com/javanile/fixedsys-css) 
+* [javanile/fork.sh](https://github.com/javanile/fork.sh) 
+* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy:
 ###  Miscellaneous :briefcase:
-* [javanile/email-test](https://github.com/javanile/email-test) 
-* [javanile/env.sh](https://github.com/javanile/env.sh)  :sleepy:
+* [javanile/forkfile](https://github.com/javanile/forkfile)  :sleepy:
+* [javanile/ghostplay](https://github.com/javanile/ghostplay) 
+* [javanile/git-dc](https://github.com/javanile/git-dc)  :sleepy:
