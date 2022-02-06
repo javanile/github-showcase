@@ -1,9 +1,8 @@
 # javanile (showcase)
-###  NodeJS Packages :rhinoceros:
-* [javanile/fixedsys-css](https://github.com/javanile/fixedsys-css) 
-* [javanile/fork.sh](https://github.com/javanile/fork.sh) 
-* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy:
 ###  Miscellaneous :briefcase:
-* [javanile/forkfile](https://github.com/javanile/forkfile)  :sleepy:
-* [javanile/ghostplay](https://github.com/javanile/ghostplay) 
-* [javanile/git-dc](https://github.com/javanile/git-dc)  :sleepy:
+* [javanile/gitcat](https://github.com/javanile/gitcat) 
+* [javanile/github-showcase](https://github.com/javanile/github-showcase) 
+* [javanile/github-spreadsheet](https://github.com/javanile/github-spreadsheet) 
+* [javanile/gitlab-ci-helper](https://github.com/javanile/gitlab-ci-helper)  :sleepy:
+* [javanile/gitlab-dist](https://github.com/javanile/gitlab-dist) 
+* [javanile/gitlab-knock](https://github.com/javanile/gitlab-knock) 

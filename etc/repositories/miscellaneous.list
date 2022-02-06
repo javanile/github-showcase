@@ -1,3 +1,6 @@
-javanile/forkfile= :sleepy:
-javanile/ghostplay=
-javanile/git-dc= :sleepy:
+javanile/gitcat=
+javanile/github-showcase=
+javanile/github-spreadsheet=
+javanile/gitlab-ci-helper= :sleepy:
+javanile/gitlab-dist=
+javanile/gitlab-knock=
