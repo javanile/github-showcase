@@ -46,7 +46,7 @@ main () {
       entry="${repository}= $badges"
       if [[ "${repository}" == *"/blog."* ]]; then
         echo ${entry} >> etc/repositories/website.list
-      elif [[ "${repository}" == *"/awesome-"* ]]; then
+      elif [[ "${repository}" == *"/awesome-"* ]] || [[ "${repository}" == *"/awesome" ]]; then
         echo ${entry} >> etc/repositories/awesome.list
       elif url_exists "${url}/composer.json?$(date +%s)" "${auth_param}"; then
         echo ${entry} >> etc/repositories/php-package.list
