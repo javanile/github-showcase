@@ -1,4 +1,6 @@
 javanile/adminer
+javanile/async-kit
+javanile/awesome-json-server
 javanile/awesome-webrequest
 javanile/bash-ci
 javanile/bash-package
@@ -6,5 +8,3 @@ javanile/behat
 javanile/binst.tk
 javanile/blog.lcov.sh
 javanile/boor
-javanile/bootstrap-wizard
-javanile/bpkg-ci
