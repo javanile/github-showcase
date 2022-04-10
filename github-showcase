@@ -28,7 +28,7 @@ main () {
   ## Get the list of repositories
   rm -f etc/repositories.list > /dev/null 2>&1
   for page in {1..5}; do
-    curl -s "https://api.github.com/users/${user}/repos?page=${page}&per_page=2" | grep '"full_name":' | cut -d'"' -f4 >> etc/repositories.list
+    curl -s "https://api.github.com/users/${user}/repos?page=${page}&per_page=100" | grep '"full_name":' | cut -d'"' -f4 >> etc/repositories.list
   done
 
   ## Repositories classifier
