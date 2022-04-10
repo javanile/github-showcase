@@ -1,1 +1,12 @@
 javanile/bash-package=
+javanile/bpkg-ci=
+javanile/bump.sh= :sleepy:
+javanile/dist.sh=
+javanile/fork.sh=
+javanile/ghostplay=
+javanile/git-dc= :sleepy:
+javanile/gitlab-ci-helper=
+javanile/gitlab-dist=
+javanile/gitlab-knock=
+javanile/inotifywait-polling=
+javanile/lcov.sh=
