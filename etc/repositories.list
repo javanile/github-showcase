@@ -1,3 +1,4 @@
+javanile/.github
 javanile/adminer
 javanile/async-kit
 javanile/awesome-json-server
@@ -101,6 +102,7 @@ javanile/path.sh
 javanile/php-file
 javanile/php-gemstone
 javanile/php-global-var
+javanile/php-input
 javanile/php-json
 javanile/php-nucrypt
 javanile/php-package
