@@ -27,6 +27,7 @@ javanile/cron-expression
 javanile/cronicle-client
 javanile/cuba
 javanile/define
+javanile/devdb
 javanile/dist.sh
 javanile/docker-ci
 javanile/docker-compose-job
