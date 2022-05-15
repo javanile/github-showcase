@@ -18,6 +18,7 @@ javanile/moldable=
 javanile/moldable.github.io= :sleepy:
 javanile/mysql-import= :sleepy:
 javanile/php-global-var= :sleepy:
+javanile/php-imap2=
 javanile/php-input=
 javanile/php-package= :sleepy:
 javanile/php-sheetbase=
