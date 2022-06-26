@@ -11,6 +11,7 @@ javanile/http-robot=
 javanile/human-mink-extension=
 javanile/humhub=
 javanile/ipqueue= :sleepy:
+javanile/lest=
 javanile/lime= :sleepy:
 javanile/mail-cli=
 javanile/masterplan= :sleepy:
