@@ -102,10 +102,12 @@ javanile/package-manager
 javanile/packages.javanile.org
 javanile/password
 javanile/path.sh
+javanile/php-access-token
 javanile/php-file
 javanile/php-gemstone
 javanile/php-global-var
 javanile/php-imap2
+javanile/php-imap2-demo
 javanile/php-input
 javanile/php-json
 javanile/php-nucrypt
