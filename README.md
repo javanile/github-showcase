@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2022--07--31%2008%3A25%3A02%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2022--08--07%2008%3A25%3A04%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/bash-ci](https://github.com/javanile/bash-ci)  - The Premium Docker Image for CI/CD
@@ -74,9 +74,9 @@ WordPress-like actions and filters for Laravel
 * [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 🀄 
 * [javanile/granular](https://github.com/javanile/granular)  :sleepy: - WordPress extension framework based on object-oriented paradigm.
 * [javanile/hamper](https://github.com/javanile/hamper)  - 📚 Modern database library for vtiger
-* [javanile/hounder](https://github.com/javanile/hounder)  - 
+* [javanile/hounder](https://github.com/javanile/hounder)  - Static code analysis for vtiger
 * [javanile/http-robot](https://github.com/javanile/http-robot)  - 
-* [javanile/human-mink-extension](https://github.com/javanile/human-mink-extension)  - 
+* [javanile/human-mink-extension](https://github.com/javanile/human-mink-extension)  - Behat MinkExtension for humans
 * [javanile/humhub](https://github.com/javanile/humhub)  - 
 * [javanile/ipqueue](https://github.com/javanile/ipqueue)  :sleepy: - 
 * [javanile/lest](https://github.com/javanile/lest)  - 
