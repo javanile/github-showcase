@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2022--08--21%2008%3A25%3A51%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2022--08--28%2008%3A26%3A27%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/bash-ci](https://github.com/javanile/bash-ci)  - The Premium Docker Image for CI/CD
@@ -21,6 +21,7 @@ Alpine-based PHP-FPM and NGINX HumHub docker-container
 * [javanile/mssql](https://github.com/javanile/mssql)  - 
 * [javanile/mysql](https://github.com/javanile/mysql)  - 
 * [javanile/novnc](https://github.com/javanile/novnc)  :sleepy: - Ready to use NoVNC client for SeleniumHQ on Docker
+* [javanile/oauth-playground](https://github.com/javanile/oauth-playground)  - 
 * [javanile/openvpn](https://github.com/javanile/openvpn)  - 
 * [javanile/package-manager](https://github.com/javanile/package-manager)  - 
 * [javanile/phpdox](https://github.com/javanile/phpdox)  - 
@@ -76,7 +77,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/hamper](https://github.com/javanile/hamper)  - 📚 Modern database library for vtiger
 * [javanile/hounder](https://github.com/javanile/hounder)  - Static code analysis for vtiger
 * [javanile/http-robot](https://github.com/javanile/http-robot)  - 
-* [javanile/human-mink-extension](https://github.com/javanile/human-mink-extension)  - Behat MinkExtension for humans
+* [javanile/human-mink-extension](https://github.com/javanile/human-mink-extension)  - 
 * [javanile/humhub](https://github.com/javanile/humhub)  - 
 * [javanile/ipqueue](https://github.com/javanile/ipqueue)  :sleepy: - 
 * [javanile/lest](https://github.com/javanile/lest)  - 
@@ -88,6 +89,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/mysql-import](https://github.com/javanile/mysql-import)  :sleepy: - 
 * [javanile/php-access-token](https://github.com/javanile/php-access-token)  - 
 * [javanile/php-global-var](https://github.com/javanile/php-global-var)  :sleepy: - 
+* [javanile/php-imap-outlook](https://github.com/javanile/php-imap-outlook)  - 
 * [javanile/php-imap2](https://github.com/javanile/php-imap2)  - 
 * [javanile/php-imap2-demo](https://github.com/javanile/php-imap2-demo)  - 
 * [javanile/php-input](https://github.com/javanile/php-input)  - 

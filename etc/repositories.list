@@ -97,6 +97,7 @@ javanile/mysql-import
 javanile/nodejs-fu
 javanile/nodejs-package
 javanile/novnc
+javanile/oauth-playground
 javanile/olint
 javanile/openvpn
 javanile/package-manager
@@ -107,6 +108,7 @@ javanile/php-access-token
 javanile/php-file
 javanile/php-gemstone
 javanile/php-global-var
+javanile/php-imap-outlook
 javanile/php-imap2
 javanile/php-imap2-demo
 javanile/php-input
