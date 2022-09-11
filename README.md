@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2022--09--04%2008%3A26%3A20%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2022--09--11%2008%3A27%3A52%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/bash-ci](https://github.com/javanile/bash-ci)  - The Premium Docker Image for CI/CD
@@ -141,6 +141,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/pixel](https://github.com/javanile/pixel)  - 
 * [javanile/webrequest-template](https://github.com/javanile/webrequest-template)  - 
 ###  Websites :earth_africa:
+* [javanile/azure.javanile.org](https://github.com/javanile/azure.javanile.org)  - 
 * [javanile/binst.tk](https://github.com/javanile/binst.tk)  - 
 * [javanile/blog.lcov.sh](https://github.com/javanile/blog.lcov.sh)  - 
 * [javanile/bpkg.javanile.org](https://github.com/javanile/bpkg.javanile.org)  - 
