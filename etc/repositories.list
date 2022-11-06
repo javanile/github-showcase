@@ -16,6 +16,7 @@ javanile/bpkg-docker
 javanile/bpkg-status
 javanile/bpkg.javanile.org
 javanile/bump.sh
+javanile/cask
 javanile/centralio
 javanile/certbot
 javanile/ci-status
@@ -92,6 +93,7 @@ javanile/mkdocs
 javanile/moldable
 javanile/moldable.github.io
 javanile/mssql
+javanile/mush
 javanile/myddleware
 javanile/mysql
 javanile/mysql-import
@@ -129,6 +131,7 @@ javanile/provisioner
 javanile/pwd
 javanile/readme.sh
 javanile/report-ci
+javanile/rust-cask
 javanile/scoop-bucket
 javanile/scoop.bat
 javanile/sharp

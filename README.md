@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2022--10--30%2008%3A27%3A46%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2022--11--06%2008%3A26%3A44%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/bash-ci](https://github.com/javanile/bash-ci)  - The Premium Docker Image for CI/CD
@@ -166,6 +166,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/async-kit](https://github.com/javanile/async-kit)  - 
 * [javanile/bpkg-docker](https://github.com/javanile/bpkg-docker)  - 
 * [javanile/bpkg-status](https://github.com/javanile/bpkg-status)  - 
+* [javanile/cask](https://github.com/javanile/cask)  - 
 * [javanile/ci-status](https://github.com/javanile/ci-status)  - 
 * [javanile/ci.lcov.sh](https://github.com/javanile/ci.lcov.sh)  :sleepy: - 
 * [javanile/contributing](https://github.com/javanile/contributing)  - 
@@ -182,6 +183,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - 
 * [javanile/jquery-calcview](https://github.com/javanile/jquery-calcview)  - 
 * [javanile/jquery-class](https://github.com/javanile/jquery-class)  - 
+* [javanile/mush](https://github.com/javanile/mush)  - 
 * [javanile/myddleware](https://github.com/javanile/myddleware)  :sleepy: - 
 * [javanile/olint](https://github.com/javanile/olint)  - 
 * [javanile/path.sh](https://github.com/javanile/path.sh)  :sleepy: - 
@@ -192,6 +194,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/phpmyadmin](https://github.com/javanile/phpmyadmin)  :sleepy: - 
 * [javanile/ppa](https://github.com/javanile/ppa)  - 
 * [javanile/readme.sh](https://github.com/javanile/readme.sh)  :sleepy: - 
+* [javanile/rust-cask](https://github.com/javanile/rust-cask)  - 
 * [javanile/scoop-bucket](https://github.com/javanile/scoop-bucket)  - 
 * [javanile/scoop.bat](https://github.com/javanile/scoop.bat)  - 
 * [javanile/sponsors](https://github.com/javanile/sponsors)  - 
