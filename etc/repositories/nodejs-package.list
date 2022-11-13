@@ -10,7 +10,6 @@ javanile/lcov-sh-action= :sleepy:
 javanile/make.bat=
 javanile/nodejs-fu= :sleepy:
 javanile/nodejs-package= :sleepy:
-javanile/pipetest=
 javanile/producer-docs=
 javanile/sharp=
 javanile/watch-log= :sleepy:
