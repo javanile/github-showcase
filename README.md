@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2022--11--13%2008%3A27%3A31%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2022--11--20%2008%3A25%3A53%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/bash-ci](https://github.com/javanile/bash-ci)  - The Premium Docker Image for CI/CD
@@ -49,7 +49,7 @@ Automatic terminal input tool - ghost types your script!
 * [javanile/gitlab-knock](https://github.com/javanile/gitlab-knock)  - 
 * [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 🔔 inotifywait alternative with polling
 * [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 🔮 LCOV framework for Shell projects
-* [javanile/pipetest](https://github.com/javanile/pipetest)  - ⛲ A minimal set of Shell functions useful to implement assertions through pipe chaining. Loved by developer
+* [javanile/pipetest](https://github.com/javanile/pipetest)  - ⛲ A minimal set of shell functions useful to implement assertions through pipe chaining. Loved by developer
 ###  GitHub Actions :octocat:
 * [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - Automatically Commit changed Files back to Github with Github Actions
 Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
@@ -149,6 +149,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/docker-hooks](https://github.com/javanile/docker-hooks)  - 
 * [javanile/docs.javanile.org](https://github.com/javanile/docs.javanile.org)  - 
 * [javanile/editorconfig](https://github.com/javanile/editorconfig)  - 
+* [javanile/get.javanile.org](https://github.com/javanile/get.javanile.org)  - 
 * [javanile/gitcat](https://github.com/javanile/gitcat)  - 
 * [javanile/install](https://github.com/javanile/install)  :sleepy: - 
 * [javanile/javanile.github.io](https://github.com/javanile/javanile.github.io)  - 
