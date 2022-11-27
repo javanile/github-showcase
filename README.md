@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2022--11--20%2008%3A25%3A53%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2022--11--27%2008%3A23%3A58%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/bash-ci](https://github.com/javanile/bash-ci)  - The Premium Docker Image for CI/CD
@@ -127,6 +127,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/jsonform](https://github.com/javanile/jsonform)  - 
 * [javanile/lcov-sh-action](https://github.com/javanile/lcov-sh-action)  :sleepy: - 
 * [javanile/make.bat](https://github.com/javanile/make.bat)  - 
+* [javanile/n](https://github.com/javanile/n)  - 
 * [javanile/nodejs-fu](https://github.com/javanile/nodejs-fu)  :sleepy: - 
 * [javanile/nodejs-package](https://github.com/javanile/nodejs-package)  :sleepy: - 
 * [javanile/producer-docs](https://github.com/javanile/producer-docs)  - 
@@ -198,6 +199,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/rust-cask](https://github.com/javanile/rust-cask)  - 
 * [javanile/scoop-bucket](https://github.com/javanile/scoop-bucket)  - 
 * [javanile/scoop.bat](https://github.com/javanile/scoop.bat)  - 
+* [javanile/shell-stars](https://github.com/javanile/shell-stars)  - 
 * [javanile/sponsors](https://github.com/javanile/sponsors)  - 
 * [javanile/styleci](https://github.com/javanile/styleci)  - 
 * [javanile/vtiger](https://github.com/javanile/vtiger)  :sleepy: - 

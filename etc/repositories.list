@@ -98,6 +98,7 @@ javanile/mush
 javanile/myddleware
 javanile/mysql
 javanile/mysql-import
+javanile/n
 javanile/nodejs-fu
 javanile/nodejs-package
 javanile/novnc
@@ -136,6 +137,7 @@ javanile/rust-cask
 javanile/scoop-bucket
 javanile/scoop.bat
 javanile/sharp
+javanile/shell-stars
 javanile/shell.javanile.org
 javanile/sonarqube
 javanile/sponsors
