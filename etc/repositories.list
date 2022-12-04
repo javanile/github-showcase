@@ -131,6 +131,7 @@ javanile/producer-docs
 javanile/propan
 javanile/provisioner
 javanile/pwd
+javanile/r
 javanile/readme.sh
 javanile/report-ci
 javanile/rust-cask
@@ -147,6 +148,7 @@ javanile/symvol
 javanile/tarjam
 javanile/tigermate
 javanile/todaynotes
+javanile/tokeman
 javanile/twitter-button
 javanile/upload
 javanile/vtiger

@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2022--11--27%2008%3A23%3A58%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2022--12--04%2008%3A22%3A54%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/bash-ci](https://github.com/javanile/bash-ci)  - The Premium Docker Image for CI/CD
@@ -195,6 +195,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/php-nucrypt](https://github.com/javanile/php-nucrypt)  - 
 * [javanile/phpmyadmin](https://github.com/javanile/phpmyadmin)  :sleepy: - 
 * [javanile/ppa](https://github.com/javanile/ppa)  - 
+* [javanile/r](https://github.com/javanile/r)  - 
 * [javanile/readme.sh](https://github.com/javanile/readme.sh)  :sleepy: - 
 * [javanile/rust-cask](https://github.com/javanile/rust-cask)  - 
 * [javanile/scoop-bucket](https://github.com/javanile/scoop-bucket)  - 
@@ -202,6 +203,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/shell-stars](https://github.com/javanile/shell-stars)  - 
 * [javanile/sponsors](https://github.com/javanile/sponsors)  - 
 * [javanile/styleci](https://github.com/javanile/styleci)  - 
+* [javanile/tokeman](https://github.com/javanile/tokeman)  - 
 * [javanile/vtiger](https://github.com/javanile/vtiger)  :sleepy: - 
 * [javanile/vtiger-code-reference](https://github.com/javanile/vtiger-code-reference)  :sleepy: - 
 * [javanile/vtiger-console](https://github.com/javanile/vtiger-console)  :sleepy: - 
