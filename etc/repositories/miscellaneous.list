@@ -20,6 +20,7 @@ javanile/heroku-curlmail=
 javanile/jquery-calcview=
 javanile/jquery-class=
 javanile/myddleware= :sleepy:
+javanile/mysql=
 javanile/olint=
 javanile/path.sh= :sleepy:
 javanile/php-file=

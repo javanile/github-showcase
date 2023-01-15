@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2023--01--08%2008%3A21%3A56%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2023--01--15%2008%3A22%3A06%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/bash-ci](https://github.com/javanile/bash-ci)  - The Premium Docker Image for CI/CD
@@ -19,7 +19,6 @@ Alpine-based PHP-FPM and NGINX HumHub docker-container
 * [javanile/loopdoor](https://github.com/javanile/loopdoor)  :sleepy: - Development ready persistent tunnel 🔐
 * [javanile/mkdocs](https://github.com/javanile/mkdocs)  - 
 * [javanile/mssql](https://github.com/javanile/mssql)  - 
-* [javanile/mysql](https://github.com/javanile/mysql)  - 
 * [javanile/novnc](https://github.com/javanile/novnc)  :sleepy: - Ready to use NoVNC client for SeleniumHQ on Docker
 * [javanile/oauth-playground](https://github.com/javanile/oauth-playground)  - 
 * [javanile/openvpn](https://github.com/javanile/openvpn)  - 
@@ -48,22 +47,34 @@ Automatic terminal input tool - ghost types your script!
 * [javanile/gitlab-dist](https://github.com/javanile/gitlab-dist)  - 
 * [javanile/gitlab-knock](https://github.com/javanile/gitlab-knock)  - 
 * [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 🔔 inotifywait alternative with polling
-* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 
-* [javanile/pipetest](https://github.com/javanile/pipetest)  - 
+* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 🔮 LCOV framework for Shell projects
+* [javanile/pipetest](https://github.com/javanile/pipetest)  - ⛲ A minimal set of shell functions useful to implement assertions through pipe chaining. Loved by developer
 ###  GitHub Actions :octocat:
-* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - 
-* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - 
+* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - Automatically Commit changed Files back to Github with Github Actions
+Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
+Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
+* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
+Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
+Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
-* [javanile/behat](https://github.com/javanile/behat)  - 
-* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - 
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
+* [javanile/behat](https://github.com/javanile/behat)  - A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
+* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
 * [javanile/define](https://github.com/javanile/define)  - 
-* [javanile/dotenv](https://github.com/javanile/dotenv)  - 
-* [javanile/eventy](https://github.com/javanile/eventy)  - 
-* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
-* [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
-* [javanile/hamper](https://github.com/javanile/hamper)  - 
+* [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+* [javanile/eventy](https://github.com/javanile/eventy)  - WordPress-like actions and filters for Vtiger
+WordPress-like actions and filters for Laravel
+WordPress-like actions and filters for Laravel
+* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 🀄 
+* [javanile/granular](https://github.com/javanile/granular)  :sleepy: - WordPress extension framework based on object-oriented paradigm.
+* [javanile/hamper](https://github.com/javanile/hamper)  - 📚 Modern database library for vtiger
 * [javanile/hounder](https://github.com/javanile/hounder)  - 
 * [javanile/http-robot](https://github.com/javanile/http-robot)  - 
 * [javanile/human-mink-extension](https://github.com/javanile/human-mink-extension)  - 
@@ -175,6 +186,7 @@ Automatic terminal input tool - ghost types your script!
 * [javanile/jquery-calcview](https://github.com/javanile/jquery-calcview)  - 
 * [javanile/jquery-class](https://github.com/javanile/jquery-class)  - 
 * [javanile/myddleware](https://github.com/javanile/myddleware)  :sleepy: - 
+* [javanile/mysql](https://github.com/javanile/mysql)  - 
 * [javanile/olint](https://github.com/javanile/olint)  - 
 * [javanile/path.sh](https://github.com/javanile/path.sh)  :sleepy: - 
 * [javanile/php-file](https://github.com/javanile/php-file)  - 
