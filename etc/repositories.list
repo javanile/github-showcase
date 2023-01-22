@@ -33,6 +33,7 @@ javanile/define
 javanile/devdb
 javanile/dist.sh
 javanile/docker-ci
+javanile/docker-compose-env
 javanile/docker-compose-job
 javanile/docker-hooks
 javanile/docker-samba-ad-dc
