@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2023--02--12%2008%3A22%3A35%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2023--02--19%2008%3A22%3A42%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/bash-ci](https://github.com/javanile/bash-ci)  - The Premium Docker Image for CI/CD
@@ -34,33 +34,47 @@ Alpine-based PHP-FPM and NGINX HumHub docker-container
 * [javanile/winexe](https://github.com/javanile/winexe)  - 
 * [javanile/xdebug](https://github.com/javanile/xdebug)  :sleepy: - 
 ###  Shell Packages :shell:
-* [javanile/bash-package](https://github.com/javanile/bash-package)  - 
-* [javanile/bpkg-ci](https://github.com/javanile/bpkg-ci)  - 
+* [javanile/bash-package](https://github.com/javanile/bash-package)  - Standard Bash Package
+* [javanile/bpkg-ci](https://github.com/javanile/bpkg-ci)  - BPKG/CI - The power of BPKG on your CI/CD pipelines or workflows
 * [javanile/bump.sh](https://github.com/javanile/bump.sh)  :sleepy: - 
-* [javanile/dist.sh](https://github.com/javanile/dist.sh)  - 
-* [javanile/fork.sh](https://github.com/javanile/fork.sh)  - 
-* [javanile/ghostplay](https://github.com/javanile/ghostplay)  - 
-* [javanile/git-dc](https://github.com/javanile/git-dc)  :sleepy: - 
+* [javanile/dist.sh](https://github.com/javanile/dist.sh)  - 📦 The perfect ZIP file bundler
+* [javanile/fork.sh](https://github.com/javanile/fork.sh)  - 🏤 Maintenance strategy for prototype-based projects
+* [javanile/ghostplay](https://github.com/javanile/ghostplay)  - Automatic terminal input tool - ghost types your script!
+Automatic terminal input tool - ghost types your script!
+Automatic terminal input tool - ghost types your script!
+* [javanile/git-dc](https://github.com/javanile/git-dc)  :sleepy: - ☢ Git Dangerous Commands also know GIT-DC
 * [javanile/gitlab-ci-helper](https://github.com/javanile/gitlab-ci-helper)  - 
 * [javanile/gitlab-dist](https://github.com/javanile/gitlab-dist)  - 
 * [javanile/gitlab-knock](https://github.com/javanile/gitlab-knock)  - 
-* [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 
-* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 
-* [javanile/pipetest](https://github.com/javanile/pipetest)  - 
+* [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 🔔 inotifywait alternative with polling
+* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 🔮 LCOV framework for Shell projects
+* [javanile/pipetest](https://github.com/javanile/pipetest)  - ⛲ A minimal set of shell functions useful to implement assertions through pipe chaining. Loved by developer
 ###  GitHub Actions :octocat:
-* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - 
-* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - 
+* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - Automatically Commit changed Files back to Github with Github Actions
+Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
+Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
+Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
-* [javanile/behat](https://github.com/javanile/behat)  - 
-* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - 
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
+* [javanile/behat](https://github.com/javanile/behat)  - A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
+* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
 * [javanile/define](https://github.com/javanile/define)  - 
-* [javanile/dotenv](https://github.com/javanile/dotenv)  - 
-* [javanile/eventy](https://github.com/javanile/eventy)  - 
-* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
-* [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
-* [javanile/hamper](https://github.com/javanile/hamper)  - 
+* [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+* [javanile/eventy](https://github.com/javanile/eventy)  - WordPress-like actions and filters for Vtiger
+WordPress-like actions and filters for Laravel
+WordPress-like actions and filters for Laravel
+* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 🀄 
+* [javanile/granular](https://github.com/javanile/granular)  :sleepy: - WordPress extension framework based on object-oriented paradigm.
+* [javanile/hamper](https://github.com/javanile/hamper)  - 📚 Modern database library for vtiger
 * [javanile/hounder](https://github.com/javanile/hounder)  - 
 * [javanile/http-robot](https://github.com/javanile/http-robot)  - 
 * [javanile/human-mink-extension](https://github.com/javanile/human-mink-extension)  - 
