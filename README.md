@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2023--02--26%2008%3A22%3A58%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2023--03--05%2008%3A22%3A20%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/bash-ci](https://github.com/javanile/bash-ci)  - The Premium Docker Image for CI/CD
@@ -59,21 +59,13 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
-* [javanile/behat](https://github.com/javanile/behat)  - A self-contained Docker image to run Behat with no external dependencies
-A self-contained Docker image to run Behat with no external dependencies
-A self-contained Docker image to run Behat with no external dependencies
-* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
-Object-oriented, fully tested PHP IMAP library
-Object-oriented, fully tested PHP IMAP library
+* [javanile/behat](https://github.com/javanile/behat)  - 
+* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - 
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
 * [javanile/define](https://github.com/javanile/define)  - 
-* [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-* [javanile/eventy](https://github.com/javanile/eventy)  - WordPress-like actions and filters for Vtiger
-WordPress-like actions and filters for Laravel
-WordPress-like actions and filters for Laravel
-* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 🀄 
+* [javanile/dotenv](https://github.com/javanile/dotenv)  - 
+* [javanile/eventy](https://github.com/javanile/eventy)  - 
+* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
 * [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
 * [javanile/hamper](https://github.com/javanile/hamper)  - 
 * [javanile/hounder](https://github.com/javanile/hounder)  - 
@@ -177,6 +169,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/ci.lcov.sh](https://github.com/javanile/ci.lcov.sh)  :sleepy: - 
 * [javanile/contributing](https://github.com/javanile/contributing)  - 
 * [javanile/devdb](https://github.com/javanile/devdb)  - 
+* [javanile/docker-compose](https://github.com/javanile/docker-compose)  - 
 * [javanile/docker-compose-env](https://github.com/javanile/docker-compose-env)  - 
 * [javanile/email-test](https://github.com/javanile/email-test)  - 
 * [javanile/forkfile](https://github.com/javanile/forkfile)  - 
@@ -190,6 +183,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - 
 * [javanile/jquery-calcview](https://github.com/javanile/jquery-calcview)  - 
 * [javanile/jquery-class](https://github.com/javanile/jquery-class)  - 
+* [javanile/mariadb](https://github.com/javanile/mariadb)  - 
 * [javanile/myddleware](https://github.com/javanile/myddleware)  :sleepy: - 
 * [javanile/mysql](https://github.com/javanile/mysql)  - 
 * [javanile/olint](https://github.com/javanile/olint)  - 

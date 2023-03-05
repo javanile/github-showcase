@@ -34,6 +34,7 @@ javanile/define
 javanile/devdb
 javanile/dist.sh
 javanile/docker-ci
+javanile/docker-compose
 javanile/docker-compose-env
 javanile/docker-compose-job
 javanile/docker-hooks
@@ -91,6 +92,7 @@ javanile/loopdoor
 javanile/mail-cli
 javanile/make-action
 javanile/make.bat
+javanile/mariadb
 javanile/masterplan
 javanile/mkdocs
 javanile/moldable
