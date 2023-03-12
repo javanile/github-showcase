@@ -9,6 +9,7 @@ javanile/contributing=
 javanile/devdb=
 javanile/docker-compose=
 javanile/docker-compose-env=
+javanile/docker-status=
 javanile/email-test=
 javanile/forkfile=
 javanile/github-showcase=

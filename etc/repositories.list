@@ -39,6 +39,7 @@ javanile/docker-compose-env
 javanile/docker-compose-job
 javanile/docker-hooks
 javanile/docker-samba-ad-dc
+javanile/docker-status
 javanile/docs.javanile.org
 javanile/dotenv
 javanile/editorconfig
@@ -77,7 +78,6 @@ javanile/humhub-docker
 javanile/ifttt
 javanile/inotifywait-polling
 javanile/install
-javanile/ionos-proxy
 javanile/ipqueue
 javanile/javanile.github.io
 javanile/jekyll-build-action
@@ -136,6 +136,7 @@ javanile/producer
 javanile/producer-docs
 javanile/propan
 javanile/provisioner
+javanile/proxy
 javanile/pwd
 javanile/r
 javanile/readme.sh
