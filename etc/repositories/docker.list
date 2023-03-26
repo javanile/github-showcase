@@ -9,6 +9,7 @@ javanile/docker-samba-ad-dc= :sleepy:
 javanile/fake-ssh-server= :sleepy:
 javanile/gitcut=
 javanile/humhub-docker=
+javanile/localhost=
 javanile/loopdoor= :sleepy:
 javanile/mkdocs=
 javanile/mssql=
