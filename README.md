@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2023--04--02%2008%3A19%3A34%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2023--04--09%2008%3A19%3A13%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -26,6 +26,7 @@ Alpine-based PHP-FPM and NGINX HumHub docker-container
 * [javanile/openvpn](https://github.com/javanile/openvpn)  - 
 * [javanile/package-manager](https://github.com/javanile/package-manager)  - 
 * [javanile/phpdox](https://github.com/javanile/phpdox)  - 
+* [javanile/phpservermonitor](https://github.com/javanile/phpservermonitor)  - 
 * [javanile/proxy](https://github.com/javanile/proxy)  - Official Javanile Proxy
 * [javanile/pwd](https://github.com/javanile/pwd)  :sleepy: - 
 * [javanile/sonarqube](https://github.com/javanile/sonarqube)  :sleepy: - 
@@ -61,15 +62,9 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
-* [javanile/behat](https://github.com/javanile/behat)  - A self-contained Docker image to run Behat with no external dependencies
-A self-contained Docker image to run Behat with no external dependencies
-A self-contained Docker image to run Behat with no external dependencies
-* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
-Object-oriented, fully tested PHP IMAP library
-Object-oriented, fully tested PHP IMAP library
+* [javanile/behat](https://github.com/javanile/behat)  - 
+* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - 
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
 * [javanile/define](https://github.com/javanile/define)  - 
 * [javanile/dotenv](https://github.com/javanile/dotenv)  - 
 * [javanile/eventy](https://github.com/javanile/eventy)  - 
