@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2023--04--16%2008%3A19%3A32%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2023--04--23%2008%3A20%3A02%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -7,6 +7,7 @@
 * [javanile/certbot](https://github.com/javanile/certbot)  - 
 * [javanile/composer](https://github.com/javanile/composer)  - PHP Composer for Docker Dev Environments
 * [javanile/crontab](https://github.com/javanile/crontab)  - The best crontab container for your docker compose file.
+* [javanile/dbdiff](https://github.com/javanile/dbdiff)  - 
 * [javanile/docker-ci](https://github.com/javanile/docker-ci)  - The Premium Docker Image for CI/CD
 * [javanile/docker-compose-job](https://github.com/javanile/docker-compose-job)  - 
 * [javanile/docker-samba-ad-dc](https://github.com/javanile/docker-samba-ad-dc)  :sleepy: - Docker container running an Active Directory Domain Controller with Samba4.
@@ -47,20 +48,16 @@ Alpine-based PHP-FPM and NGINX HumHub docker-container
 * [javanile/ghostplay](https://github.com/javanile/ghostplay)  - Automatic terminal input tool - ghost types your script!
 Automatic terminal input tool - ghost types your script!
 Automatic terminal input tool - ghost types your script!
-* [javanile/git-dc](https://github.com/javanile/git-dc)  :sleepy: - ☢ Git Dangerous Commands also know GIT-DC
+* [javanile/git-dc](https://github.com/javanile/git-dc)  :sleepy: - 
 * [javanile/gitlab-ci-helper](https://github.com/javanile/gitlab-ci-helper)  - 
 * [javanile/gitlab-dist](https://github.com/javanile/gitlab-dist)  - 
 * [javanile/gitlab-knock](https://github.com/javanile/gitlab-knock)  - 
-* [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 🔔 inotifywait alternative with polling
-* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 🔮 LCOV framework for Shell projects
-* [javanile/pipetest](https://github.com/javanile/pipetest)  - ⛲ A minimal set of shell functions useful to implement assertions through pipe chaining. Loved by developer
+* [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 
+* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 
+* [javanile/pipetest](https://github.com/javanile/pipetest)  - 
 ###  GitHub Actions :octocat:
-* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - Automatically Commit changed Files back to Github with Github Actions
-Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
-Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
-Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
+* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - 
+* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - 
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
 * [javanile/behat](https://github.com/javanile/behat)  - 
@@ -123,6 +120,7 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 * [javanile/crisp](https://github.com/javanile/crisp)  - 
 * [javanile/cronicle-client](https://github.com/javanile/cronicle-client)  - 
 * [javanile/fixedsys-css](https://github.com/javanile/fixedsys-css)  - 
+* [javanile/hostmon](https://github.com/javanile/hostmon)  - 
 * [javanile/jsonform](https://github.com/javanile/jsonform)  - 
 * [javanile/lcov-sh-action](https://github.com/javanile/lcov-sh-action)  :sleepy: - 
 * [javanile/make.bat](https://github.com/javanile/make.bat)  - 

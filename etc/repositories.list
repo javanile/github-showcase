@@ -30,6 +30,7 @@ javanile/cron-expression
 javanile/cronicle-client
 javanile/crontab
 javanile/cuba
+javanile/dbdiff
 javanile/ddeboer-imap
 javanile/define
 javanile/devdb
@@ -72,6 +73,7 @@ javanile/hamper
 javanile/helm-charts
 javanile/helm-vtiger
 javanile/heroku-curlmail
+javanile/hostmon
 javanile/hounder
 javanile/http-robot
 javanile/human-mink-extension
