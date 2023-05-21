@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2023--05--14%2008%3A18%3A44%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2023--05--21%2008%3A19%3A09%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -70,9 +70,7 @@ A self-contained Docker image to run Behat with no external dependencies
 * [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
 CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
 CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
-Object-oriented, fully tested PHP IMAP library
-Object-oriented, fully tested PHP IMAP library
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
 * [javanile/define](https://github.com/javanile/define)  - 
 * [javanile/dotenv](https://github.com/javanile/dotenv)  - 
 * [javanile/eventy](https://github.com/javanile/eventy)  - 
