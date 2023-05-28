@@ -133,6 +133,7 @@ javanile/php-json
 javanile/php-nucrypt
 javanile/php-package
 javanile/php-sheetbase
+javanile/php7
 javanile/phpdox
 javanile/phpmyadmin
 javanile/phpservermonitor
@@ -152,6 +153,7 @@ javanile/report-ci
 javanile/rust-cask
 javanile/scoop-bucket
 javanile/scoop.bat
+javanile/settings-daemon
 javanile/sharp
 javanile/sheetbase
 javanile/shell-stars
