@@ -40,6 +40,7 @@ javanile/docker-ci
 javanile/docker-compose
 javanile/docker-compose-env
 javanile/docker-compose-job
+javanile/docker-entrypoint
 javanile/docker-hooks
 javanile/docker-samba-ad-dc
 javanile/docker-status
@@ -202,6 +203,7 @@ javanile/webrequest-roadmap
 javanile/webrequest-spreadsheet
 javanile/webrequest-template
 javanile/webrequest-ui
+javanile/websync
 javanile/winexe
 javanile/wirecraft
 javanile/xdebug
