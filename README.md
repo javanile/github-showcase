@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2023--06--11%2008%3A19%3A07%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2023--06--18%2008%3A18%3A59%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -64,15 +64,23 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
-* [javanile/behat](https://github.com/javanile/behat)  - 
-* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - 
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
+* [javanile/behat](https://github.com/javanile/behat)  - A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
+* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
 * [javanile/define](https://github.com/javanile/define)  - 
-* [javanile/dotenv](https://github.com/javanile/dotenv)  - 
-* [javanile/eventy](https://github.com/javanile/eventy)  - 
-* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
-* [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
-* [javanile/hamper](https://github.com/javanile/hamper)  - 
+* [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+* [javanile/eventy](https://github.com/javanile/eventy)  - WP-like actions and filters for Vtiger
+WordPress-like actions and filters for Laravel
+WordPress-like actions and filters for Laravel
+* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 🀄 
+* [javanile/granular](https://github.com/javanile/granular)  :sleepy: - WordPress extension framework based on object-oriented paradigm.
+* [javanile/hamper](https://github.com/javanile/hamper)  - 📚 Modern database library for vtiger
 * [javanile/hounder](https://github.com/javanile/hounder)  - 
 * [javanile/http-robot](https://github.com/javanile/http-robot)  - 
 * [javanile/human-mink-extension](https://github.com/javanile/human-mink-extension)  - 
@@ -100,7 +108,7 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 * [javanile/provisioner](https://github.com/javanile/provisioner)  :sleepy: - 
 * [javanile/report-ci](https://github.com/javanile/report-ci)  :sleepy: - 
 * [javanile/sheetbase](https://github.com/javanile/sheetbase)  - 
-* [javanile/tigermate](https://github.com/javanile/tigermate)  :sleepy: - 
+* [javanile/tigermate](https://github.com/javanile/tigermate)  - 
 * [javanile/todaynotes](https://github.com/javanile/todaynotes)  - 
 * [javanile/vtiger-cli](https://github.com/javanile/vtiger-cli)  - 
 * [javanile/vtiger-client](https://github.com/javanile/vtiger-client)  - 
@@ -193,6 +201,7 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 * [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - 
 * [javanile/jquery-calcview](https://github.com/javanile/jquery-calcview)  - 
 * [javanile/jquery-class](https://github.com/javanile/jquery-class)  - 
+* [javanile/lanspeed](https://github.com/javanile/lanspeed)  - 
 * [javanile/mariadb](https://github.com/javanile/mariadb)  - 
 * [javanile/myddleware](https://github.com/javanile/myddleware)  :sleepy: - 
 * [javanile/mysql](https://github.com/javanile/mysql)  - 
