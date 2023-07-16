@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2023--07--09%2008%3A21%3A27%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2023--07--16%2008%3A21%3A16%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -75,8 +75,10 @@ Object-oriented, fully tested PHP IMAP library
 Object-oriented, fully tested PHP IMAP library
 * [javanile/define](https://github.com/javanile/define)  - 
 * [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-* [javanile/eventy](https://github.com/javanile/eventy)  - 
-* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
+* [javanile/eventy](https://github.com/javanile/eventy)  - WP-like actions and filters for Vtiger
+WordPress-like actions and filters for Laravel
+WordPress-like actions and filters for Laravel
+* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 🀄 
 * [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
 * [javanile/hamper](https://github.com/javanile/hamper)  - 
 * [javanile/hounder](https://github.com/javanile/hounder)  - 
