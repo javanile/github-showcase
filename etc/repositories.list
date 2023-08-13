@@ -128,6 +128,7 @@ javanile/php-access-token
 javanile/php-file
 javanile/php-gemstone
 javanile/php-global-var
+javanile/php-glossary
 javanile/php-imap-outlook
 javanile/php-imap2
 javanile/php-imap2-demo
@@ -152,6 +153,7 @@ javanile/proxy
 javanile/pwd
 javanile/r
 javanile/readme.sh
+javanile/refine
 javanile/report-ci
 javanile/rust-cask
 javanile/scoop-bucket
