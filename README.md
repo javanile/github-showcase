@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2023--09--17%2008%3A17%3A54%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2023--09--24%2008%3A17%3A59%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -74,14 +74,16 @@ CRON for PHP: Calculate the next or previous run date and determine if a CRON ex
 Object-oriented, fully tested PHP IMAP library
 Object-oriented, fully tested PHP IMAP library
 * [javanile/define](https://github.com/javanile/define)  - 
-* [javanile/dotenv](https://github.com/javanile/dotenv)  - 
-* [javanile/eventy](https://github.com/javanile/eventy)  - 
-* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
-* [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
-* [javanile/hamper](https://github.com/javanile/hamper)  - 
-* [javanile/hounder](https://github.com/javanile/hounder)  - 
+* [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+* [javanile/eventy](https://github.com/javanile/eventy)  - WP-like actions and filters for Vtiger
+WordPress-like actions and filters for Laravel
+WordPress-like actions and filters for Laravel
+* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 🀄 
+* [javanile/granular](https://github.com/javanile/granular)  :sleepy: - WordPress extension framework based on object-oriented paradigm.
+* [javanile/hamper](https://github.com/javanile/hamper)  - 📚 Modern database library for vtiger
+* [javanile/hounder](https://github.com/javanile/hounder)  - Static code analysis for vtiger
 * [javanile/http-robot](https://github.com/javanile/http-robot)  - 
-* [javanile/human-mink-extension](https://github.com/javanile/human-mink-extension)  - 
+* [javanile/human-mink-extension](https://github.com/javanile/human-mink-extension)  - Behat MinkExtension for humans
 * [javanile/humhub](https://github.com/javanile/humhub)  - 
 * [javanile/ipqueue](https://github.com/javanile/ipqueue)  :sleepy: - 
 * [javanile/lest](https://github.com/javanile/lest)  - 
