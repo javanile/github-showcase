@@ -137,6 +137,7 @@ javanile/php-json
 javanile/php-nucrypt
 javanile/php-package
 javanile/php-sheetbase
+javanile/php-websocket
 javanile/php7
 javanile/phpdox
 javanile/phpmyadmin

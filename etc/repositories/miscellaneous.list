@@ -35,6 +35,7 @@ javanile/php-file=
 javanile/php-glossary=
 javanile/php-json=
 javanile/php-nucrypt=
+javanile/php-websocket=
 javanile/php7=
 javanile/phpmyadmin= :sleepy:
 javanile/powerbar=
