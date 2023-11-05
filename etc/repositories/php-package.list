@@ -29,6 +29,7 @@ javanile/php-imap2-demo=
 javanile/php-input=
 javanile/php-package= :sleepy:
 javanile/php-sheetbase=
+javanile/php-websocket=
 javanile/producer=
 javanile/propan= :sleepy:
 javanile/provisioner= :sleepy:
