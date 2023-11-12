@@ -24,6 +24,7 @@ javanile/certbot
 javanile/ci-status
 javanile/ci.lcov.sh
 javanile/cliz
+javanile/cmdlint
 javanile/composer
 javanile/contributing
 javanile/crisp
@@ -139,6 +140,7 @@ javanile/php-json
 javanile/php-nucrypt
 javanile/php-package
 javanile/php-sheetbase
+javanile/php-ssh2
 javanile/php-websocket
 javanile/php7
 javanile/phpdox
