@@ -38,6 +38,7 @@ javanile/php-file=
 javanile/php-glossary=
 javanile/php-json=
 javanile/php-nucrypt=
+javanile/php-object-inspector=
 javanile/php-ssh2=
 javanile/php7=
 javanile/phpmyadmin= :sleepy:

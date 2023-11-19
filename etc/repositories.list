@@ -138,6 +138,7 @@ javanile/php-imap2-demo
 javanile/php-input
 javanile/php-json
 javanile/php-nucrypt
+javanile/php-object-inspector
 javanile/php-package
 javanile/php-sheetbase
 javanile/php-ssh2
@@ -168,6 +169,7 @@ javanile/sharp
 javanile/sheetbase
 javanile/shell-stars
 javanile/shell.javanile.org
+javanile/smart-rm
 javanile/sonarqube
 javanile/sponsors
 javanile/springboard

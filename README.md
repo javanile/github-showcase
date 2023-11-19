@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2023--11--12%2008%3A18%3A54%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2023--11--19%2008%3A19%3A37%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -31,6 +31,7 @@ Alpine-based PHP-FPM and NGINX HumHub docker-container
 * [javanile/phpservermonitor](https://github.com/javanile/phpservermonitor)  - 
 * [javanile/proxy](https://github.com/javanile/proxy)  - Official Javanile Proxy
 * [javanile/pwd](https://github.com/javanile/pwd)  :sleepy: - 
+* [javanile/smart-rm](https://github.com/javanile/smart-rm)  - 
 * [javanile/sonarqube](https://github.com/javanile/sonarqube)  :sleepy: - 
 * [javanile/symvol](https://github.com/javanile/symvol)  :sleepy: - Symbolic Volume for Docker
 * [javanile/tarjam](https://github.com/javanile/tarjam)  :sleepy: - 
@@ -215,6 +216,7 @@ Object-oriented, fully tested PHP IMAP library
 * [javanile/php-glossary](https://github.com/javanile/php-glossary)  - 
 * [javanile/php-json](https://github.com/javanile/php-json)  - 
 * [javanile/php-nucrypt](https://github.com/javanile/php-nucrypt)  - 
+* [javanile/php-object-inspector](https://github.com/javanile/php-object-inspector)  - 
 * [javanile/php-ssh2](https://github.com/javanile/php-ssh2)  - 
 * [javanile/php7](https://github.com/javanile/php7)  - 
 * [javanile/phpmyadmin](https://github.com/javanile/phpmyadmin)  :sleepy: - 
