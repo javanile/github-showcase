@@ -15,6 +15,7 @@ javanile/humhub-docker=
 javanile/localhost=
 javanile/loopdoor= :sleepy:
 javanile/mkdocs=
+javanile/monit-dashboard=
 javanile/mssql=
 javanile/novnc=
 javanile/oauth-playground=
