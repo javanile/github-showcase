@@ -59,6 +59,7 @@ javanile/forkfile
 javanile/frontline
 javanile/get.javanile.org
 javanile/ghostplay
+javanile/git-ahead
 javanile/git-auto-commit-action
 javanile/git-dc
 javanile/gitcat
@@ -99,6 +100,7 @@ javanile/lcov-sh-action
 javanile/lcov.sh
 javanile/lest
 javanile/lime
+javanile/linkedin-button
 javanile/localhost
 javanile/logo
 javanile/loopdoor
@@ -212,6 +214,7 @@ javanile/vtiger-skeleton
 javanile/vtiger-styleci
 javanile/vtiger-tarball
 javanile/vtiger-uitype
+javanile/vuejs-overlay-container
 javanile/watch-log
 javanile/webrequest
 javanile/webrequest-chrome-extensions
