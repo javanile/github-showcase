@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--03--24%2008%3A18%3A36%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--03--31%2008%3A20%3A23%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -32,6 +32,7 @@ Alpine-based PHP-FPM and NGINX HumHub docker-container
 * [javanile/proxy](https://github.com/javanile/proxy)  - Official Javanile Proxy
 * [javanile/pwd](https://github.com/javanile/pwd)  :sleepy: - 
 * [javanile/roundcube](https://github.com/javanile/roundcube)  - 
+* [javanile/selenium-chrome](https://github.com/javanile/selenium-chrome)  - 
 * [javanile/smart-rm](https://github.com/javanile/smart-rm)  - 
 * [javanile/sonarqube](https://github.com/javanile/sonarqube)  :sleepy: - 
 * [javanile/symvol](https://github.com/javanile/symvol)  :sleepy: - Symbolic Volume for Docker
@@ -80,7 +81,7 @@ Object-oriented, fully tested PHP IMAP library
 * [javanile/eventy](https://github.com/javanile/eventy)  - WP-like actions and filters for Vtiger
 WordPress-like actions and filters for Laravel
 WordPress-like actions and filters for Laravel
-* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
+* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 🀄 
 * [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
 * [javanile/hamper](https://github.com/javanile/hamper)  - 
 * [javanile/hounder](https://github.com/javanile/hounder)  - 
