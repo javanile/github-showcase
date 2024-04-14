@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--04--07%2008%3A21%3A26%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--04--14%2010%3A42%3A08%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -190,7 +190,7 @@ WordPress-like actions and filters for Laravel
 * [javanile/cask](https://github.com/javanile/cask)  - 
 * [javanile/ci-status](https://github.com/javanile/ci-status)  - 
 * [javanile/ci.lcov.sh](https://github.com/javanile/ci.lcov.sh)  :sleepy: - 
-* [javanile/cmdlint](https://github.com/javanile/cmdlint)  - 
+* [javanile/cmdlint](https://github.com/javanile/cmdlint)  - Command-line output linter
 * [javanile/contributing](https://github.com/javanile/contributing)  - 
 * [javanile/devdb](https://github.com/javanile/devdb)  - 
 * [javanile/devhub](https://github.com/javanile/devhub)  - 
@@ -199,31 +199,31 @@ WordPress-like actions and filters for Laravel
 * [javanile/docker-entrypoint](https://github.com/javanile/docker-entrypoint)  - 
 * [javanile/docker-status](https://github.com/javanile/docker-status)  - 
 * [javanile/email-test](https://github.com/javanile/email-test)  - 
-* [javanile/forkfile](https://github.com/javanile/forkfile)  - 
-* [javanile/git-ahead](https://github.com/javanile/git-ahead)  - 
-* [javanile/github-showcase](https://github.com/javanile/github-showcase)  - 
-* [javanile/github-traffic](https://github.com/javanile/github-traffic)  - 
+* [javanile/forkfile](https://github.com/javanile/forkfile)  - Forkfile
+* [javanile/git-ahead](https://github.com/javanile/git-ahead)  - Identifies branches 🌿 with commits ahead of the current branch
+* [javanile/github-showcase](https://github.com/javanile/github-showcase)  - Official Showcase
+* [javanile/github-traffic](https://github.com/javanile/github-traffic)  - 📈 GitHub Traffic Report - Generate an awesome traffic report from your repositories
 * [javanile/gitlab-report-ci](https://github.com/javanile/gitlab-report-ci)  - 
 * [javanile/glossar.javanile.org](https://github.com/javanile/glossar.javanile.org)  :sleepy: - 
-* [javanile/google-php-imap](https://github.com/javanile/google-php-imap)  - 
+* [javanile/google-php-imap](https://github.com/javanile/google-php-imap)  - Open IMAP connection without password (for Google/Gmail)
 * [javanile/helm-charts](https://github.com/javanile/helm-charts)  :sleepy: - 
 * [javanile/helm-vtiger](https://github.com/javanile/helm-vtiger)  :sleepy: - 
-* [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - 
+* [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - Send emails via CURL and Heroku
 * [javanile/jquery-calcview](https://github.com/javanile/jquery-calcview)  - 
 * [javanile/jquery-class](https://github.com/javanile/jquery-class)  - 
 * [javanile/lanspeed](https://github.com/javanile/lanspeed)  - 
 * [javanile/logo](https://github.com/javanile/logo)  - 
 * [javanile/mariadb](https://github.com/javanile/mariadb)  - 
 * [javanile/myddleware](https://github.com/javanile/myddleware)  :sleepy: - 
-* [javanile/mysql](https://github.com/javanile/mysql)  - 
+* [javanile/mysql](https://github.com/javanile/mysql)  - The best MySQL images for your docker compose file.
 * [javanile/mysql.javanile.org](https://github.com/javanile/mysql.javanile.org)  - 
-* [javanile/node](https://github.com/javanile/node)  - 
+* [javanile/node](https://github.com/javanile/node)  - Dockerized Node.js Environment with Updated npm
 * [javanile/olint](https://github.com/javanile/olint)  - 
-* [javanile/openmaintainer](https://github.com/javanile/openmaintainer)  - 
-* [javanile/package-manager](https://github.com/javanile/package-manager)  - 
+* [javanile/openmaintainer](https://github.com/javanile/openmaintainer)  - FOSS maintainers network trusted by local groups
+* [javanile/package-manager](https://github.com/javanile/package-manager)  - Packager Manager Jekyll Theme
 * [javanile/path.sh](https://github.com/javanile/path.sh)  :sleepy: - 
 * [javanile/php-file](https://github.com/javanile/php-file)  - 
-* [javanile/php-glossary](https://github.com/javanile/php-glossary)  - 
+* [javanile/php-glossary](https://github.com/javanile/php-glossary)  - Demonstrative Conceptual Implementation: Glossary Code Analysis Tool for PHP
 * [javanile/php-json](https://github.com/javanile/php-json)  - 
 * [javanile/php-nucrypt](https://github.com/javanile/php-nucrypt)  - 
 * [javanile/php-object-inspector](https://github.com/javanile/php-object-inspector)  - 
@@ -232,23 +232,25 @@ WordPress-like actions and filters for Laravel
 * [javanile/phpmyadmin](https://github.com/javanile/phpmyadmin)  :sleepy: - 
 * [javanile/powerbar](https://github.com/javanile/powerbar)  - 
 * [javanile/ppa](https://github.com/javanile/ppa)  - 
-* [javanile/r](https://github.com/javanile/r)  - 
+* [javanile/r](https://github.com/javanile/r)  - Rust version management
+Rust Version Manager
+Rust Version Manager
 * [javanile/readme.sh](https://github.com/javanile/readme.sh)  :sleepy: - 
-* [javanile/refine](https://github.com/javanile/refine)  - 
+* [javanile/refine](https://github.com/javanile/refine)  - Rust implementation of Define (a DSL tool)
 * [javanile/rust-cask](https://github.com/javanile/rust-cask)  - 
 * [javanile/scoop-bucket](https://github.com/javanile/scoop-bucket)  - 
 * [javanile/scoop.bat](https://github.com/javanile/scoop.bat)  - 
 * [javanile/services](https://github.com/javanile/services)  - 
 * [javanile/settings-daemon](https://github.com/javanile/settings-daemon)  - 
-* [javanile/shell-stars](https://github.com/javanile/shell-stars)  - 
+* [javanile/shell-stars](https://github.com/javanile/shell-stars)  - Shell Stars
 * [javanile/sponsors](https://github.com/javanile/sponsors)  - 
 * [javanile/status.javanile.org](https://github.com/javanile/status.javanile.org)  - 
 * [javanile/styleci](https://github.com/javanile/styleci)  - 
-* [javanile/tokeman](https://github.com/javanile/tokeman)  - 
-* [javanile/vtiger](https://github.com/javanile/vtiger)  - 
+* [javanile/tokeman](https://github.com/javanile/tokeman)  - Token Management for Shell
+* [javanile/vtiger](https://github.com/javanile/vtiger)  - 🐯 Vtiger is the #1 business automation software. Try it with Docker!
 * [javanile/vtiger-code-reference](https://github.com/javanile/vtiger-code-reference)  :sleepy: - 
 * [javanile/vtiger-console](https://github.com/javanile/vtiger-console)  :sleepy: - 
-* [javanile/vtiger-core](https://github.com/javanile/vtiger-core)  - 
+* [javanile/vtiger-core](https://github.com/javanile/vtiger-core)  - Get vtiger with composer
 * [javanile/vtiger-debug](https://github.com/javanile/vtiger-debug)  :sleepy: - 
 * [javanile/vtiger-demo](https://github.com/javanile/vtiger-demo)  - 
 * [javanile/vtiger-docs](https://github.com/javanile/vtiger-docs)  :sleepy: - 
