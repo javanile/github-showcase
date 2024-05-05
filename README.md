@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--04--28%2008%3A21%3A19%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--05--05%2008%3A19%3A49%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -16,6 +16,7 @@ Docker container running an Active Directory Domain Controller with Samba4.
 * [javanile/fake-ssh-server](https://github.com/javanile/fake-ssh-server)  :sleepy: - Docker container which can be used in SSH integration tests
 * [javanile/frontline](https://github.com/javanile/frontline)  - 
 * [javanile/gitcut](https://github.com/javanile/gitcut)  - 
+* [javanile/google-spreadsheet-buffer](https://github.com/javanile/google-spreadsheet-buffer)  - Google Spreadsheet Buffer
 * [javanile/humhub-docker](https://github.com/javanile/humhub-docker)  - Alpine-based PHP-FPM and NGINX HumHub docker-container
 Alpine-based PHP-FPM and NGINX HumHub docker-container
 Alpine-based PHP-FPM and NGINX HumHub docker-container
@@ -73,10 +74,14 @@ A self-contained Docker image to run Behat with no external dependencies
 * [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
 CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
 CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
 * [javanile/define](https://github.com/javanile/define)  - 
-* [javanile/dotenv](https://github.com/javanile/dotenv)  - 
-* [javanile/eventy](https://github.com/javanile/eventy)  - 
+* [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+* [javanile/eventy](https://github.com/javanile/eventy)  - WP-like actions and filters for Vtiger
+WordPress-like actions and filters for Laravel
+WordPress-like actions and filters for Laravel
 * [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
 * [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
 * [javanile/hamper](https://github.com/javanile/hamper)  - 

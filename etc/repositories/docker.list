@@ -11,6 +11,7 @@ javanile/docker-samba-ad-dc= :sleepy:
 javanile/fake-ssh-server= :sleepy:
 javanile/frontline=
 javanile/gitcut=
+javanile/google-spreadsheet-buffer=
 javanile/humhub-docker=
 javanile/localhost=
 javanile/loopdoor= :sleepy:
