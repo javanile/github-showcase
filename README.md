@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--06--09%2008%3A20%3A36%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--06--16%2008%3A20%3A45%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -47,25 +47,19 @@ Alpine-based PHP-FPM and NGINX HumHub docker-container
 * [javanile/bash-package](https://github.com/javanile/bash-package)  - Standard Bash Package
 * [javanile/bpkg-ci](https://github.com/javanile/bpkg-ci)  - BPKG/CI - The power of BPKG on your CI/CD pipelines or workflows
 * [javanile/bump.sh](https://github.com/javanile/bump.sh)  :sleepy: - 
-* [javanile/dist.sh](https://github.com/javanile/dist.sh)  - 📦 The perfect ZIP file bundler
-* [javanile/fork.sh](https://github.com/javanile/fork.sh)  - 🏤 Maintenance strategy for prototype-based projects
-* [javanile/ghostplay](https://github.com/javanile/ghostplay)  - Automatic terminal input tool - ghost types your script!
-Automatic terminal input tool - ghost types your script!
-Automatic terminal input tool - ghost types your script!
-* [javanile/git-dc](https://github.com/javanile/git-dc)  :sleepy: - ☢ Git Dangerous Commands also know GIT-DC
+* [javanile/dist.sh](https://github.com/javanile/dist.sh)  - 
+* [javanile/fork.sh](https://github.com/javanile/fork.sh)  - 
+* [javanile/ghostplay](https://github.com/javanile/ghostplay)  - 
+* [javanile/git-dc](https://github.com/javanile/git-dc)  :sleepy: - 
 * [javanile/gitlab-ci-helper](https://github.com/javanile/gitlab-ci-helper)  - 
 * [javanile/gitlab-dist](https://github.com/javanile/gitlab-dist)  - 
 * [javanile/gitlab-knock](https://github.com/javanile/gitlab-knock)  - 
-* [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 🔔 inotifywait alternative with polling
-* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 🔮 LCOV framework for Shell projects
-* [javanile/pipetest](https://github.com/javanile/pipetest)  - ⛲ A minimal set of shell functions useful to implement assertions through pipe chaining. Loved by developer
+* [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 
+* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 
+* [javanile/pipetest](https://github.com/javanile/pipetest)  - 
 ###  GitHub Actions :octocat:
-* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - Automatically Commit changed Files back to Github with Github Actions
-Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
-Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
-Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
+* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - 
+* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - 
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
 * [javanile/behat](https://github.com/javanile/behat)  - 
