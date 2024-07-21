@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--07--14%2008%3A24%3A24%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--07--21%2008%3A21%3A15%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -93,66 +93,78 @@ WordPress-like actions and filters for Laravel
 * [javanile/lest](https://github.com/javanile/lest)  - 
 * [javanile/lime](https://github.com/javanile/lime)  :sleepy: - 
 * [javanile/mail-cli](https://github.com/javanile/mail-cli)  - 
-* [javanile/masterplan](https://github.com/javanile/masterplan)  :sleepy: - 
-* [javanile/moldable](https://github.com/javanile/moldable)  - 
+* [javanile/masterplan](https://github.com/javanile/masterplan)  :sleepy: - Business Automation from CLI
+* [javanile/moldable](https://github.com/javanile/moldable)  - The only PHP & MySQL ORM for Continuous Delivery. Using javanile/moldable can eliminate the step of data migrations and schema changes, often manual steps or exceptions to a continuous delivery workflow.
 * [javanile/moldable.github.io](https://github.com/javanile/moldable.github.io)  :sleepy: - 
-* [javanile/mysql-import](https://github.com/javanile/mysql-import)  :sleepy: - 
+* [javanile/mysql-import](https://github.com/javanile/mysql-import)  :sleepy: - 🗃 Import SQL file
 * [javanile/notification](https://github.com/javanile/notification)  - 
 * [javanile/php-access-token](https://github.com/javanile/php-access-token)  - 
 * [javanile/php-gemstone](https://github.com/javanile/php-gemstone)  - 
-* [javanile/php-global-var](https://github.com/javanile/php-global-var)  :sleepy: - 
-* [javanile/php-glossary](https://github.com/javanile/php-glossary)  - 
+* [javanile/php-global-var](https://github.com/javanile/php-global-var)  :sleepy: - 👷 Replacement strategy of messy code because of the global
+* [javanile/php-glossary](https://github.com/javanile/php-glossary)  - Demonstrative Conceptual Implementation: Glossary Code Analysis Tool for PHP
 * [javanile/php-imap-outlook](https://github.com/javanile/php-imap-outlook)  - 
-* [javanile/php-imap2](https://github.com/javanile/php-imap2)  - 
+* [javanile/php-imap2](https://github.com/javanile/php-imap2)  - PHP IMAP with OAUTH2
 * [javanile/php-imap2-demo](https://github.com/javanile/php-imap2-demo)  - 
 * [javanile/php-input](https://github.com/javanile/php-input)  - 
-* [javanile/php-package](https://github.com/javanile/php-package)  :sleepy: - 
+* [javanile/php-package](https://github.com/javanile/php-package)  :sleepy: - Standard PHP package skeleton.
+Standard PHP package skeleton.
+Standard PHP package skeleton.
 * [javanile/php-sheetbase](https://github.com/javanile/php-sheetbase)  - 
 * [javanile/php-websocket](https://github.com/javanile/php-websocket)  - 
-* [javanile/producer](https://github.com/javanile/producer)  - 
-* [javanile/propan](https://github.com/javanile/propan)  :sleepy: - 
-* [javanile/provisioner](https://github.com/javanile/provisioner)  :sleepy: - 
-* [javanile/report-ci](https://github.com/javanile/report-ci)  :sleepy: - 
+* [javanile/producer](https://github.com/javanile/producer)  - Laravel prototyping tool
+* [javanile/propan](https://github.com/javanile/propan)  :sleepy: - 🍥 Project Pancake
+* [javanile/provisioner](https://github.com/javanile/provisioner)  :sleepy: - Web API to provisioning multi-tenant application
+* [javanile/report-ci](https://github.com/javanile/report-ci)  :sleepy: - 📋 Upload, store & share your reports from your favourite CI pipeline.
 * [javanile/sheetbase](https://github.com/javanile/sheetbase)  - 
 * [javanile/tigermate](https://github.com/javanile/tigermate)  - 
-* [javanile/todaynotes](https://github.com/javanile/todaynotes)  - 
-* [javanile/vtiger-cli](https://github.com/javanile/vtiger-cli)  - 
-* [javanile/vtiger-client](https://github.com/javanile/vtiger-client)  - 
+* [javanile/todaynotes](https://github.com/javanile/todaynotes)  - 📝 TodayNotes - Meeting notes definitely crisp and clean (and much more)
+* [javanile/vtiger-cli](https://github.com/javanile/vtiger-cli)  - 🛠 The ultimate CLI for vtiger
+* [javanile/vtiger-client](https://github.com/javanile/vtiger-client)  - 🏭 Industry Standard Vtiger API Client
 * [javanile/vtiger-client-demo](https://github.com/javanile/vtiger-client-demo)  :sleepy: - 
 * [javanile/vtiger-composer](https://github.com/javanile/vtiger-composer)  :sleepy: - 
 * [javanile/vtiger-core-installer](https://github.com/javanile/vtiger-core-installer)  :sleepy: - 
-* [javanile/vtiger-custom-function](https://github.com/javanile/vtiger-custom-function)  - 
-* [javanile/vtiger-propan](https://github.com/javanile/vtiger-propan)  :sleepy: - 
+* [javanile/vtiger-custom-function](https://github.com/javanile/vtiger-custom-function)  - Vtiger Workflow Custom Function
+* [javanile/vtiger-propan](https://github.com/javanile/vtiger-propan)  :sleepy: - VTiger CRM with Propan
 * [javanile/vtiger-psr4](https://github.com/javanile/vtiger-psr4)  :sleepy: - 
 * [javanile/vtiger-seed](https://github.com/javanile/vtiger-seed)  :sleepy: - 
-* [javanile/webrequest](https://github.com/javanile/webrequest)  - 
+* [javanile/webrequest](https://github.com/javanile/webrequest)  - Webhooks Adapter suitable for 99% of No-code scenarios
 * [javanile/webrequest-csv](https://github.com/javanile/webrequest-csv)  - 
 * [javanile/webrequest-json](https://github.com/javanile/webrequest-json)  - 
 * [javanile/wirecraft](https://github.com/javanile/wirecraft)  :sleepy: - 
-* [javanile/yaml](https://github.com/javanile/yaml)  :sleepy: - 
+* [javanile/yaml](https://github.com/javanile/yaml)  :sleepy: - Include Yaml on Yaml for PHP
 ###  NodeJS Packages :rhinoceros:
-* [javanile/boor](https://github.com/javanile/boor)  - 
-* [javanile/bootstrap-wizard](https://github.com/javanile/bootstrap-wizard)  :sleepy: - 
-* [javanile/centralio](https://github.com/javanile/centralio)  - 
-* [javanile/cliz](https://github.com/javanile/cliz)  - 
-* [javanile/crisp](https://github.com/javanile/crisp)  - 
-* [javanile/cronicle-client](https://github.com/javanile/cronicle-client)  - 
-* [javanile/fixedsys-css](https://github.com/javanile/fixedsys-css)  - 
+* [javanile/boor](https://github.com/javanile/boor)  - 🐮 Use only if you hate good manners
+* [javanile/bootstrap-wizard](https://github.com/javanile/bootstrap-wizard)  :sleepy: - This twitter bootstrap plugin builds a wizard out of a formatter tabbable structure. It allows to build a wizard functionality using buttons to go through the different wizard steps and using events allows to hook into each step individually.
+This twitter bootstrap plugin builds a wizard out of a formatter tabbable structure. It allows to build a wizard functionality using buttons to go through the different wizard steps and using events allows to hook into each step individually.
+This twitter bootstrap plugin builds a wizard out of a formatter tabbable structure. It allows to build a wizard functionality using buttons to go through the different wizard steps and using events allows to hook into each step individually.
+* [javanile/centralio](https://github.com/javanile/centralio)  - Client/Server library for UDP
+* [javanile/cliz](https://github.com/javanile/cliz)  - Command-line interface zork
+* [javanile/crisp](https://github.com/javanile/crisp)  - A simple, minimal, classless stylesheet for simple HTML pages
+* [javanile/cronicle-client](https://github.com/javanile/cronicle-client)  - Light Cronicle node client with full TypeScript support
+Light Cronicle node client with full TypeScript support
+Light Cronicle node client with full TypeScript support
+* [javanile/fixedsys-css](https://github.com/javanile/fixedsys-css)  - Fixedsys - Old Fashion Font
 * [javanile/graphql-explorer](https://github.com/javanile/graphql-explorer)  - 
-* [javanile/hostmon](https://github.com/javanile/hostmon)  - 
+* [javanile/hostmon](https://github.com/javanile/hostmon)  - HostMon is a simple web-based host monitor and application dashboard.
+HostMon is a simple web-based host monitor and application dashboard.
+HostMon is a simple web-based host monitor and application dashboard.
 * [javanile/jsonform](https://github.com/javanile/jsonform)  - 
 * [javanile/lcov-sh-action](https://github.com/javanile/lcov-sh-action)  :sleepy: - 
-* [javanile/make.bat](https://github.com/javanile/make.bat)  - 
-* [javanile/n](https://github.com/javanile/n)  - 
-* [javanile/nodejs-fu](https://github.com/javanile/nodejs-fu)  :sleepy: - 
-* [javanile/nodejs-package](https://github.com/javanile/nodejs-package)  :sleepy: - 
+* [javanile/make.bat](https://github.com/javanile/make.bat)  - Powerful GNU Make for Windows ignited by Docker
+* [javanile/n](https://github.com/javanile/n)  - Node version management
+Node version management
+Node version management
+* [javanile/nodejs-fu](https://github.com/javanile/nodejs-fu)  :sleepy: - NodeJS File System Utility
+* [javanile/nodejs-package](https://github.com/javanile/nodejs-package)  :sleepy: - Ready to use NodeJs skeleton's to build new module
 * [javanile/producer-docs](https://github.com/javanile/producer-docs)  - 
 * [javanile/sharp](https://github.com/javanile/sharp)  - 
-* [javanile/watch-log](https://github.com/javanile/watch-log)  :sleepy: - 
-* [javanile/webrequest-chrome-extensions](https://github.com/javanile/webrequest-chrome-extensions)  - 
-* [javanile/webrequest-ui](https://github.com/javanile/webrequest-ui)  - 
+* [javanile/watch-log](https://github.com/javanile/watch-log)  :sleepy: - Watch your log files during development and save your time.
+* [javanile/webrequest-chrome-extensions](https://github.com/javanile/webrequest-chrome-extensions)  - Puts a button that you can customize with your own action
+Puts a button that you can customize with your own action
+Puts a button that you can customize with your own action
+* [javanile/webrequest-ui](https://github.com/javanile/webrequest-ui)  - webrequest ui framework
 * [javanile/websync](https://github.com/javanile/websync)  - 
-* [javanile/yamlinc](https://github.com/javanile/yamlinc)  :sleepy: - 
+* [javanile/yamlinc](https://github.com/javanile/yamlinc)  :sleepy: - Compose multiple YAML files into one with $include tag. Split Swagger/OpenAPI into multiple YAML files.
 ###  No-code/Low-code :bike:
 * [javanile/github-spreadsheet](https://github.com/javanile/github-spreadsheet)  - 
 * [javanile/ifttt](https://github.com/javanile/ifttt)  - 
