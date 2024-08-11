@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--08--04%2008%3A20%3A51%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--08--11%2008%3A21%3A44%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -78,8 +78,10 @@ CRON for PHP: Calculate the next or previous run date and determine if a CRON ex
 Object-oriented, fully tested PHP IMAP library
 Object-oriented, fully tested PHP IMAP library
 * [javanile/define](https://github.com/javanile/define)  - 
-* [javanile/dotenv](https://github.com/javanile/dotenv)  - 
-* [javanile/eventy](https://github.com/javanile/eventy)  - 
+* [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+* [javanile/eventy](https://github.com/javanile/eventy)  - WP-like actions and filters for Vtiger
+WordPress-like actions and filters for Laravel
+WordPress-like actions and filters for Laravel
 * [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
 * [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
 * [javanile/hamper](https://github.com/javanile/hamper)  - 
