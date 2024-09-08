@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--09--01%2008%3A23%3A02%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--09--08%2008%3A23%3A01%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -245,19 +245,19 @@ WordPress-like actions and filters for Laravel
 * [javanile/sponsors](https://github.com/javanile/sponsors)  - 
 * [javanile/status.javanile.org](https://github.com/javanile/status.javanile.org)  - 
 * [javanile/styleci](https://github.com/javanile/styleci)  - 
-* [javanile/tokeman](https://github.com/javanile/tokeman)  - 
-* [javanile/vtiger](https://github.com/javanile/vtiger)  - 
+* [javanile/tokeman](https://github.com/javanile/tokeman)  - Token Management for Shell
+* [javanile/vtiger](https://github.com/javanile/vtiger)  - 🐯 Vtiger is the #1 business automation software. Try it with Docker!
 * [javanile/vtiger-code-reference](https://github.com/javanile/vtiger-code-reference)  :sleepy: - 
 * [javanile/vtiger-console](https://github.com/javanile/vtiger-console)  :sleepy: - 
-* [javanile/vtiger-core](https://github.com/javanile/vtiger-core)  - 
+* [javanile/vtiger-core](https://github.com/javanile/vtiger-core)  - Get vtiger with composer
 * [javanile/vtiger-debug](https://github.com/javanile/vtiger-debug)  :sleepy: - 
-* [javanile/vtiger-demo](https://github.com/javanile/vtiger-demo)  - 
+* [javanile/vtiger-demo](https://github.com/javanile/vtiger-demo)  - 😎 vtiger demo
 * [javanile/vtiger-docs](https://github.com/javanile/vtiger-docs)  :sleepy: - 
-* [javanile/vtiger-i18n](https://github.com/javanile/vtiger-i18n)  :sleepy: - 
+* [javanile/vtiger-i18n](https://github.com/javanile/vtiger-i18n)  :sleepy: -  🌎 Vtiger internationalisation and localisation
 * [javanile/vtiger-install](https://github.com/javanile/vtiger-install)  - 
 * [javanile/vtiger-module-demo](https://github.com/javanile/vtiger-module-demo)  :sleepy: - 
 * [javanile/vtiger-patch](https://github.com/javanile/vtiger-patch)  - 
-* [javanile/vtiger-preload](https://github.com/javanile/vtiger-preload)  - 
+* [javanile/vtiger-preload](https://github.com/javanile/vtiger-preload)  - Discussion about preload on vtiger
 * [javanile/vtiger-styleci](https://github.com/javanile/vtiger-styleci)  :sleepy: - 
 * [javanile/vtiger-tarball](https://github.com/javanile/vtiger-tarball)  - 
 * [javanile/vtiger-uitype](https://github.com/javanile/vtiger-uitype)  - 
