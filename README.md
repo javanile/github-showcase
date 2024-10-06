@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--09--29%2008%3A24%3A55%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--10--06%2008%3A24%3A18%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -241,15 +241,15 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 * [javanile/vtiger](https://github.com/javanile/vtiger)  - 
 * [javanile/vtiger-code-reference](https://github.com/javanile/vtiger-code-reference)  :sleepy: - 
 * [javanile/vtiger-console](https://github.com/javanile/vtiger-console)  :sleepy: - 
-* [javanile/vtiger-core](https://github.com/javanile/vtiger-core)  - 
+* [javanile/vtiger-core](https://github.com/javanile/vtiger-core)  - Get vtiger with composer
 * [javanile/vtiger-debug](https://github.com/javanile/vtiger-debug)  :sleepy: - 
-* [javanile/vtiger-demo](https://github.com/javanile/vtiger-demo)  - 
+* [javanile/vtiger-demo](https://github.com/javanile/vtiger-demo)  - 😎 vtiger demo
 * [javanile/vtiger-docs](https://github.com/javanile/vtiger-docs)  :sleepy: - 
-* [javanile/vtiger-i18n](https://github.com/javanile/vtiger-i18n)  :sleepy: - 
+* [javanile/vtiger-i18n](https://github.com/javanile/vtiger-i18n)  :sleepy: -  🌎 Vtiger internationalisation and localisation
 * [javanile/vtiger-install](https://github.com/javanile/vtiger-install)  - 
 * [javanile/vtiger-module-demo](https://github.com/javanile/vtiger-module-demo)  :sleepy: - 
 * [javanile/vtiger-patch](https://github.com/javanile/vtiger-patch)  - 
-* [javanile/vtiger-preload](https://github.com/javanile/vtiger-preload)  - 
+* [javanile/vtiger-preload](https://github.com/javanile/vtiger-preload)  - Discussion about preload on vtiger
 * [javanile/vtiger-styleci](https://github.com/javanile/vtiger-styleci)  :sleepy: - 
 * [javanile/vtiger-tarball](https://github.com/javanile/vtiger-tarball)  - 
 * [javanile/vtiger-uitype](https://github.com/javanile/vtiger-uitype)  - 
