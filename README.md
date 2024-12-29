@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--12--22%2008%3A24%3A19%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--12--29%2008%3A24%3A49%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -71,11 +71,17 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 * [javanile/behat](https://github.com/javanile/behat)  - A self-contained Docker image to run Behat with no external dependencies
 A self-contained Docker image to run Behat with no external dependencies
 A self-contained Docker image to run Behat with no external dependencies
-* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - 
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
+* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
 * [javanile/define](https://github.com/javanile/define)  - 
-* [javanile/dotenv](https://github.com/javanile/dotenv)  - 
-* [javanile/eventy](https://github.com/javanile/eventy)  - 
+* [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+* [javanile/eventy](https://github.com/javanile/eventy)  - WP-like actions and filters for Vtiger
+WordPress-like actions and filters for Laravel
+WordPress-like actions and filters for Laravel
 * [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
 * [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
 * [javanile/hamper](https://github.com/javanile/hamper)  - 
@@ -128,76 +134,66 @@ A self-contained Docker image to run Behat with no external dependencies
 * [javanile/boor](https://github.com/javanile/boor)  - 
 * [javanile/bootstrap-wizard](https://github.com/javanile/bootstrap-wizard)  :sleepy: - 
 * [javanile/centralio](https://github.com/javanile/centralio)  - 
-* [javanile/cliz](https://github.com/javanile/cliz)  - Command-line interface zork
-* [javanile/crisp](https://github.com/javanile/crisp)  - A simple, minimal, classless stylesheet for simple HTML pages
-* [javanile/cronicle-client](https://github.com/javanile/cronicle-client)  - Light Cronicle node client with full TypeScript support
-Light Cronicle node client with full TypeScript support
-Light Cronicle node client with full TypeScript support
-* [javanile/fixedsys-css](https://github.com/javanile/fixedsys-css)  - Fixedsys - Old Fashion Font
+* [javanile/cliz](https://github.com/javanile/cliz)  - 
+* [javanile/crisp](https://github.com/javanile/crisp)  - 
+* [javanile/cronicle-client](https://github.com/javanile/cronicle-client)  - 
+* [javanile/fixedsys-css](https://github.com/javanile/fixedsys-css)  - 
 * [javanile/graphql-explorer](https://github.com/javanile/graphql-explorer)  - 
-* [javanile/hostmon](https://github.com/javanile/hostmon)  - HostMon is a simple web-based host monitor and application dashboard.
-HostMon is a simple web-based host monitor and application dashboard.
-HostMon is a simple web-based host monitor and application dashboard.
+* [javanile/hostmon](https://github.com/javanile/hostmon)  - 
 * [javanile/jsonform](https://github.com/javanile/jsonform)  - 
 * [javanile/lcov-sh-action](https://github.com/javanile/lcov-sh-action)  :sleepy: - 
-* [javanile/make.bat](https://github.com/javanile/make.bat)  - Powerful GNU Make for Windows ignited by Docker
-* [javanile/n](https://github.com/javanile/n)  - Node version management
-Node version management
-Node version management
+* [javanile/make.bat](https://github.com/javanile/make.bat)  - 
+* [javanile/n](https://github.com/javanile/n)  - 
 * [javanile/nestarch](https://github.com/javanile/nestarch)  - 
-* [javanile/nodejs-fu](https://github.com/javanile/nodejs-fu)  :sleepy: - NodeJS File System Utility
-* [javanile/nodejs-package](https://github.com/javanile/nodejs-package)  :sleepy: - Ready to use NodeJs skeleton's to build new module
+* [javanile/nodejs-fu](https://github.com/javanile/nodejs-fu)  :sleepy: - 
+* [javanile/nodejs-package](https://github.com/javanile/nodejs-package)  :sleepy: - 
 * [javanile/producer-docs](https://github.com/javanile/producer-docs)  - 
 * [javanile/sharp](https://github.com/javanile/sharp)  - 
-* [javanile/watch-log](https://github.com/javanile/watch-log)  :sleepy: - Watch your log files during development and save your time.
-* [javanile/webrequest-chrome-extensions](https://github.com/javanile/webrequest-chrome-extensions)  - Puts a button that you can customize with your own action
-Puts a button that you can customize with your own action
-Puts a button that you can customize with your own action
-* [javanile/webrequest-ui](https://github.com/javanile/webrequest-ui)  - webrequest ui framework
+* [javanile/watch-log](https://github.com/javanile/watch-log)  :sleepy: - 
+* [javanile/webrequest-chrome-extensions](https://github.com/javanile/webrequest-chrome-extensions)  - 
+* [javanile/webrequest-ui](https://github.com/javanile/webrequest-ui)  - 
 * [javanile/websync](https://github.com/javanile/websync)  - 
-* [javanile/yamlinc](https://github.com/javanile/yamlinc)  :sleepy: - Compose multiple YAML files into one with $include tag. Split Swagger/OpenAPI into multiple YAML files.
+* [javanile/yamlinc](https://github.com/javanile/yamlinc)  :sleepy: - 
 ###  No-code/Low-code :bike:
 * [javanile/github-spreadsheet](https://github.com/javanile/github-spreadsheet)  - 
 * [javanile/ifttt](https://github.com/javanile/ifttt)  - 
 * [javanile/pixel](https://github.com/javanile/pixel)  - 
-* [javanile/webrequest-template](https://github.com/javanile/webrequest-template)  - Get Started with Webrequest 💡
+* [javanile/webrequest-template](https://github.com/javanile/webrequest-template)  - 
 ###  Websites :earth_africa:
 * [javanile/azure.javanile.org](https://github.com/javanile/azure.javanile.org)  - 
-* [javanile/binst.tk](https://github.com/javanile/binst.tk)  - Binary Installer Toolkit
-* [javanile/blog.lcov.sh](https://github.com/javanile/blog.lcov.sh)  - 🔮 Shell Coverage (The Blog)
-* [javanile/bpkg.javanile.org](https://github.com/javanile/bpkg.javanile.org)  - Fork of https://bpkg.sh
-Homepage for the bpkg project http://bpkg.sh
-Homepage for the bpkg project http://bpkg.sh
-* [javanile/cuba](https://github.com/javanile/cuba)  - cURL + BASH = cuba
+* [javanile/binst.tk](https://github.com/javanile/binst.tk)  - 
+* [javanile/blog.lcov.sh](https://github.com/javanile/blog.lcov.sh)  - 
+* [javanile/bpkg.javanile.org](https://github.com/javanile/bpkg.javanile.org)  - 
+* [javanile/cuba](https://github.com/javanile/cuba)  - 
 * [javanile/docker-hooks](https://github.com/javanile/docker-hooks)  - 
-* [javanile/docs.javanile.org](https://github.com/javanile/docs.javanile.org)  - Official Documentation Portal
-* [javanile/editorconfig](https://github.com/javanile/editorconfig)  - EditorConfig on the fly!
-* [javanile/get.javanile.org](https://github.com/javanile/get.javanile.org)  - Official Javanile Installer
+* [javanile/docs.javanile.org](https://github.com/javanile/docs.javanile.org)  - 
+* [javanile/editorconfig](https://github.com/javanile/editorconfig)  - 
+* [javanile/get.javanile.org](https://github.com/javanile/get.javanile.org)  - 
 * [javanile/gitcat](https://github.com/javanile/gitcat)  - 
 * [javanile/install](https://github.com/javanile/install)  :sleepy: - 
-* [javanile/javanile.github.io](https://github.com/javanile/javanile.github.io)  - Public website
-* [javanile/linkedin-button](https://github.com/javanile/linkedin-button)  - 🔗 Create Magic LinkedIn Button to bump your README.md file
-* [javanile/mush](https://github.com/javanile/mush)  - Mush, a build system for shell.
+* [javanile/javanile.github.io](https://github.com/javanile/javanile.github.io)  - 
+* [javanile/linkedin-button](https://github.com/javanile/linkedin-button)  - 
+* [javanile/mush](https://github.com/javanile/mush)  - 
 * [javanile/packages.javanile.org](https://github.com/javanile/packages.javanile.org)  - 
 * [javanile/password](https://github.com/javanile/password)  - 
-* [javanile/shell.javanile.org](https://github.com/javanile/shell.javanile.org)  :sleepy: - Public website
-* [javanile/springboard](https://github.com/javanile/springboard)  - 🌈 Your project's first place
-* [javanile/twitter-button](https://github.com/javanile/twitter-button)  - 🐦 Create Magic Twitter Button to bump your README.md file
-* [javanile/webrequest-roadmap](https://github.com/javanile/webrequest-roadmap)  - Roadmap of Webrequest Revolution
+* [javanile/shell.javanile.org](https://github.com/javanile/shell.javanile.org)  :sleepy: - 
+* [javanile/springboard](https://github.com/javanile/springboard)  - 
+* [javanile/twitter-button](https://github.com/javanile/twitter-button)  - 
+* [javanile/webrequest-roadmap](https://github.com/javanile/webrequest-roadmap)  - 
 ###  Awesome Lists :sunglasses:
 * [javanile/awesome-json-server](https://github.com/javanile/awesome-json-server)  - 
-* [javanile/awesome-webrequest](https://github.com/javanile/awesome-webrequest)  - 🚀 A collection of awesome webrequest snippets, resources and shiny things.
+* [javanile/awesome-webrequest](https://github.com/javanile/awesome-webrequest)  - 
 ###  Miscellaneous :briefcase:
 * [javanile/.github](https://github.com/javanile/.github)  - 
 * [javanile/async-kit](https://github.com/javanile/async-kit)  - 
 * [javanile/bname](https://github.com/javanile/bname)  - 
-* [javanile/bnm](https://github.com/javanile/bnm)  - Bash Network Manager
+* [javanile/bnm](https://github.com/javanile/bnm)  - 
 * [javanile/bpkg-docker](https://github.com/javanile/bpkg-docker)  - 
 * [javanile/bpkg-status](https://github.com/javanile/bpkg-status)  - 
-* [javanile/cask](https://github.com/javanile/cask)  - Lightweight IaC
+* [javanile/cask](https://github.com/javanile/cask)  - 
 * [javanile/ci-status](https://github.com/javanile/ci-status)  - 
 * [javanile/ci.lcov.sh](https://github.com/javanile/ci.lcov.sh)  :sleepy: - 
-* [javanile/cmdlint](https://github.com/javanile/cmdlint)  - Command-line output linter
+* [javanile/cmdlint](https://github.com/javanile/cmdlint)  - 
 * [javanile/contributing](https://github.com/javanile/contributing)  - 
 * [javanile/devdb](https://github.com/javanile/devdb)  - 
 * [javanile/devhub](https://github.com/javanile/devhub)  - 
