@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2025--01--26%2008%3A22%3A28%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2025--02--02%2008%3A23%3A55%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -56,15 +56,21 @@ Automatic terminal input tool - ghost types your script!
 * [javanile/gitlab-ci-helper](https://github.com/javanile/gitlab-ci-helper)  - 
 * [javanile/gitlab-dist](https://github.com/javanile/gitlab-dist)  - 
 * [javanile/gitlab-knock](https://github.com/javanile/gitlab-knock)  - 
-* [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 
-* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 
-* [javanile/pipetest](https://github.com/javanile/pipetest)  - 
+* [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 🔔 inotifywait alternative with polling
+* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 🔮 LCOV framework for Shell projects
+* [javanile/pipetest](https://github.com/javanile/pipetest)  - ⛲ A minimal set of shell functions useful to implement assertions through pipe chaining. Loved by developer
 ###  GitHub Actions :octocat:
-* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - 
-* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - 
+* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - Automatically Commit changed Files back to Github with Github Actions
+Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
+Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
+Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
-* [javanile/behat](https://github.com/javanile/behat)  - 
+* [javanile/behat](https://github.com/javanile/behat)  - A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
 * [javanile/cron-expression](https://github.com/javanile/cron-expression)  - 
 * [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
 * [javanile/define](https://github.com/javanile/define)  - 
@@ -159,29 +165,29 @@ Automatic terminal input tool - ghost types your script!
 * [javanile/get.javanile.org](https://github.com/javanile/get.javanile.org)  - 
 * [javanile/gitcat](https://github.com/javanile/gitcat)  - 
 * [javanile/install](https://github.com/javanile/install)  :sleepy: - 
-* [javanile/javanile.github.io](https://github.com/javanile/javanile.github.io)  - Public website
-* [javanile/linkedin-button](https://github.com/javanile/linkedin-button)  - 🔗 Create Magic LinkedIn Button to bump your README.md file
-* [javanile/mush](https://github.com/javanile/mush)  - Mush, a build system for shell.
+* [javanile/javanile.github.io](https://github.com/javanile/javanile.github.io)  - 
+* [javanile/linkedin-button](https://github.com/javanile/linkedin-button)  - 
+* [javanile/mush](https://github.com/javanile/mush)  - 
 * [javanile/packages.javanile.org](https://github.com/javanile/packages.javanile.org)  - 
 * [javanile/password](https://github.com/javanile/password)  - 
-* [javanile/shell.javanile.org](https://github.com/javanile/shell.javanile.org)  :sleepy: - Public website
-* [javanile/springboard](https://github.com/javanile/springboard)  - 🌈 Your project's first place
-* [javanile/twitter-button](https://github.com/javanile/twitter-button)  - 🐦 Create Magic Twitter Button to bump your README.md file
-* [javanile/webrequest-roadmap](https://github.com/javanile/webrequest-roadmap)  - Roadmap of Webrequest Revolution
+* [javanile/shell.javanile.org](https://github.com/javanile/shell.javanile.org)  :sleepy: - 
+* [javanile/springboard](https://github.com/javanile/springboard)  - 
+* [javanile/twitter-button](https://github.com/javanile/twitter-button)  - 
+* [javanile/webrequest-roadmap](https://github.com/javanile/webrequest-roadmap)  - 
 ###  Awesome Lists :sunglasses:
 * [javanile/awesome-json-server](https://github.com/javanile/awesome-json-server)  - 
-* [javanile/awesome-webrequest](https://github.com/javanile/awesome-webrequest)  - 🚀 A collection of awesome webrequest snippets, resources and shiny things.
+* [javanile/awesome-webrequest](https://github.com/javanile/awesome-webrequest)  - 
 ###  Miscellaneous :briefcase:
 * [javanile/.github](https://github.com/javanile/.github)  - 
 * [javanile/async-kit](https://github.com/javanile/async-kit)  - 
 * [javanile/bname](https://github.com/javanile/bname)  - 
-* [javanile/bnm](https://github.com/javanile/bnm)  - Bash Network Manager
+* [javanile/bnm](https://github.com/javanile/bnm)  - 
 * [javanile/bpkg-docker](https://github.com/javanile/bpkg-docker)  - 
 * [javanile/bpkg-status](https://github.com/javanile/bpkg-status)  - 
-* [javanile/cask](https://github.com/javanile/cask)  - Lightweight IaC
+* [javanile/cask](https://github.com/javanile/cask)  - 
 * [javanile/ci-status](https://github.com/javanile/ci-status)  - 
 * [javanile/ci.lcov.sh](https://github.com/javanile/ci.lcov.sh)  :sleepy: - 
-* [javanile/cmdlint](https://github.com/javanile/cmdlint)  - Command-line output linter
+* [javanile/cmdlint](https://github.com/javanile/cmdlint)  - 
 * [javanile/contributing](https://github.com/javanile/contributing)  - 
 * [javanile/devdb](https://github.com/javanile/devdb)  - 
 * [javanile/devhub](https://github.com/javanile/devhub)  - 
@@ -191,28 +197,28 @@ Automatic terminal input tool - ghost types your script!
 * [javanile/docker-entrypoint](https://github.com/javanile/docker-entrypoint)  - 
 * [javanile/docker-status](https://github.com/javanile/docker-status)  - 
 * [javanile/email-test](https://github.com/javanile/email-test)  - 
-* [javanile/forkfile](https://github.com/javanile/forkfile)  - Forkfile
-* [javanile/git-ahead](https://github.com/javanile/git-ahead)  - Identifies branches 🌿 with commits ahead of the current branch
-* [javanile/github-showcase](https://github.com/javanile/github-showcase)  - Official Showcase
-* [javanile/github-traffic](https://github.com/javanile/github-traffic)  - 📈 GitHub Traffic Report - Generate an awesome traffic report from your repositories
+* [javanile/forkfile](https://github.com/javanile/forkfile)  - 
+* [javanile/git-ahead](https://github.com/javanile/git-ahead)  - 
+* [javanile/github-showcase](https://github.com/javanile/github-showcase)  - 
+* [javanile/github-traffic](https://github.com/javanile/github-traffic)  - 
 * [javanile/gitlab-report-ci](https://github.com/javanile/gitlab-report-ci)  - 
 * [javanile/glossar.javanile.org](https://github.com/javanile/glossar.javanile.org)  :sleepy: - 
-* [javanile/google-php-imap](https://github.com/javanile/google-php-imap)  - Open IMAP connection without password (for Google/Gmail)
+* [javanile/google-php-imap](https://github.com/javanile/google-php-imap)  - 
 * [javanile/helm-charts](https://github.com/javanile/helm-charts)  :sleepy: - 
 * [javanile/helm-vtiger](https://github.com/javanile/helm-vtiger)  :sleepy: - 
-* [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - Send emails via CURL and Heroku
+* [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - 
 * [javanile/jquery-calcview](https://github.com/javanile/jquery-calcview)  - 
 * [javanile/jquery-class](https://github.com/javanile/jquery-class)  - 
 * [javanile/lanspeed](https://github.com/javanile/lanspeed)  - 
 * [javanile/logo](https://github.com/javanile/logo)  - 
 * [javanile/mariadb](https://github.com/javanile/mariadb)  - 
 * [javanile/myddleware](https://github.com/javanile/myddleware)  :sleepy: - 
-* [javanile/mysql](https://github.com/javanile/mysql)  - The best MySQL images for your docker compose file.
+* [javanile/mysql](https://github.com/javanile/mysql)  - 
 * [javanile/mysql.javanile.org](https://github.com/javanile/mysql.javanile.org)  - 
-* [javanile/node](https://github.com/javanile/node)  - Dockerized Node.js Environment with Updated npm
+* [javanile/node](https://github.com/javanile/node)  - 
 * [javanile/olint](https://github.com/javanile/olint)  - 
-* [javanile/openmaintainer](https://github.com/javanile/openmaintainer)  - FOSS maintainers network trusted by local groups
-* [javanile/package-manager](https://github.com/javanile/package-manager)  - Packager Manager Jekyll Theme
+* [javanile/openmaintainer](https://github.com/javanile/openmaintainer)  - 
+* [javanile/package-manager](https://github.com/javanile/package-manager)  - 
 * [javanile/path.sh](https://github.com/javanile/path.sh)  :sleepy: - 
 * [javanile/php-file](https://github.com/javanile/php-file)  - 
 * [javanile/php-json](https://github.com/javanile/php-json)  - 
@@ -236,6 +242,7 @@ Automatic terminal input tool - ghost types your script!
 * [javanile/status.javanile.org](https://github.com/javanile/status.javanile.org)  - 
 * [javanile/styleci](https://github.com/javanile/styleci)  - 
 * [javanile/tokeman](https://github.com/javanile/tokeman)  - 
+* [javanile/unipipe](https://github.com/javanile/unipipe)  - 
 * [javanile/vtiger](https://github.com/javanile/vtiger)  - 
 * [javanile/vtiger-code-reference](https://github.com/javanile/vtiger-code-reference)  :sleepy: - 
 * [javanile/vtiger-console](https://github.com/javanile/vtiger-console)  :sleepy: - 
