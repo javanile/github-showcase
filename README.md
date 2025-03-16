@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2025--03--09%2008%3A21%3A32%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2025--03--16%2008%3A25%3A18%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -78,10 +78,8 @@ CRON for PHP: Calculate the next or previous run date and determine if a CRON ex
 Object-oriented, fully tested PHP IMAP library
 Object-oriented, fully tested PHP IMAP library
 * [javanile/define](https://github.com/javanile/define)  - 
-* [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-* [javanile/eventy](https://github.com/javanile/eventy)  - WP-like actions and filters for Vtiger
-WordPress-like actions and filters for Laravel
-WordPress-like actions and filters for Laravel
+* [javanile/dotenv](https://github.com/javanile/dotenv)  - 
+* [javanile/eventy](https://github.com/javanile/eventy)  - 
 * [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
 * [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
 * [javanile/hamper](https://github.com/javanile/hamper)  - 
@@ -252,15 +250,15 @@ WordPress-like actions and filters for Laravel
 * [javanile/vtiger](https://github.com/javanile/vtiger)  - 
 * [javanile/vtiger-code-reference](https://github.com/javanile/vtiger-code-reference)  :sleepy: - 
 * [javanile/vtiger-console](https://github.com/javanile/vtiger-console)  :sleepy: - 
-* [javanile/vtiger-core](https://github.com/javanile/vtiger-core)  - 
+* [javanile/vtiger-core](https://github.com/javanile/vtiger-core)  - Get vtiger with composer
 * [javanile/vtiger-debug](https://github.com/javanile/vtiger-debug)  :sleepy: - 
-* [javanile/vtiger-demo](https://github.com/javanile/vtiger-demo)  - 
+* [javanile/vtiger-demo](https://github.com/javanile/vtiger-demo)  - 😎 vtiger demo
 * [javanile/vtiger-docs](https://github.com/javanile/vtiger-docs)  :sleepy: - 
-* [javanile/vtiger-i18n](https://github.com/javanile/vtiger-i18n)  :sleepy: - 
+* [javanile/vtiger-i18n](https://github.com/javanile/vtiger-i18n)  :sleepy: -  🌎 Vtiger internationalisation and localisation
 * [javanile/vtiger-install](https://github.com/javanile/vtiger-install)  - 
 * [javanile/vtiger-module-demo](https://github.com/javanile/vtiger-module-demo)  :sleepy: - 
 * [javanile/vtiger-patch](https://github.com/javanile/vtiger-patch)  - 
-* [javanile/vtiger-preload](https://github.com/javanile/vtiger-preload)  - 
+* [javanile/vtiger-preload](https://github.com/javanile/vtiger-preload)  - Discussion about preload on vtiger
 * [javanile/vtiger-styleci](https://github.com/javanile/vtiger-styleci)  :sleepy: - 
 * [javanile/vtiger-tarball](https://github.com/javanile/vtiger-tarball)  - 
 * [javanile/vtiger-uitype](https://github.com/javanile/vtiger-uitype)  - 
