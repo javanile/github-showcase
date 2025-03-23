@@ -1,12 +1,12 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2025--03--16%2008%3A25%3A18%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2025--03--23%2008%3A25%3A49%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
 * [javanile/bash-ci](https://github.com/javanile/bash-ci)  - The Premium Docker Image for CI/CD
 * [javanile/certbot](https://github.com/javanile/certbot)  - 
 * [javanile/composer](https://github.com/javanile/composer)  - PHP Composer for Docker Dev Environments
-* [javanile/crontab](https://github.com/javanile/crontab)  - The best crontab container for your docker compose file.
+* [javanile/crontab](https://github.com/javanile/crontab)  - 🕓 The best crontab container for your docker compose file.
 * [javanile/dbdiff](https://github.com/javanile/dbdiff)  - 
 * [javanile/docker-ci](https://github.com/javanile/docker-ci)  - The Premium Docker Image for CI/CD
 * [javanile/docker-compose-job](https://github.com/javanile/docker-compose-job)  - 
@@ -68,15 +68,9 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
-* [javanile/behat](https://github.com/javanile/behat)  - A self-contained Docker image to run Behat with no external dependencies
-A self-contained Docker image to run Behat with no external dependencies
-A self-contained Docker image to run Behat with no external dependencies
-* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
-Object-oriented, fully tested PHP IMAP library
-Object-oriented, fully tested PHP IMAP library
+* [javanile/behat](https://github.com/javanile/behat)  - 
+* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - 
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
 * [javanile/define](https://github.com/javanile/define)  - 
 * [javanile/dotenv](https://github.com/javanile/dotenv)  - 
 * [javanile/eventy](https://github.com/javanile/eventy)  - 
@@ -151,7 +145,7 @@ Object-oriented, fully tested PHP IMAP library
 * [javanile/webrequest-chrome-extensions](https://github.com/javanile/webrequest-chrome-extensions)  - 
 * [javanile/webrequest-ui](https://github.com/javanile/webrequest-ui)  - 
 * [javanile/websync](https://github.com/javanile/websync)  - 
-* [javanile/yamlinc](https://github.com/javanile/yamlinc)  :sleepy: - 
+* [javanile/yamlinc](https://github.com/javanile/yamlinc)  - 
 ###  No-code/Low-code :bike:
 * [javanile/github-spreadsheet](https://github.com/javanile/github-spreadsheet)  - 
 * [javanile/ifttt](https://github.com/javanile/ifttt)  - 
@@ -250,15 +244,15 @@ Object-oriented, fully tested PHP IMAP library
 * [javanile/vtiger](https://github.com/javanile/vtiger)  - 
 * [javanile/vtiger-code-reference](https://github.com/javanile/vtiger-code-reference)  :sleepy: - 
 * [javanile/vtiger-console](https://github.com/javanile/vtiger-console)  :sleepy: - 
-* [javanile/vtiger-core](https://github.com/javanile/vtiger-core)  - Get vtiger with composer
+* [javanile/vtiger-core](https://github.com/javanile/vtiger-core)  - 
 * [javanile/vtiger-debug](https://github.com/javanile/vtiger-debug)  :sleepy: - 
-* [javanile/vtiger-demo](https://github.com/javanile/vtiger-demo)  - 😎 vtiger demo
+* [javanile/vtiger-demo](https://github.com/javanile/vtiger-demo)  - 
 * [javanile/vtiger-docs](https://github.com/javanile/vtiger-docs)  :sleepy: - 
-* [javanile/vtiger-i18n](https://github.com/javanile/vtiger-i18n)  :sleepy: -  🌎 Vtiger internationalisation and localisation
+* [javanile/vtiger-i18n](https://github.com/javanile/vtiger-i18n)  :sleepy: - 
 * [javanile/vtiger-install](https://github.com/javanile/vtiger-install)  - 
 * [javanile/vtiger-module-demo](https://github.com/javanile/vtiger-module-demo)  :sleepy: - 
 * [javanile/vtiger-patch](https://github.com/javanile/vtiger-patch)  - 
-* [javanile/vtiger-preload](https://github.com/javanile/vtiger-preload)  - Discussion about preload on vtiger
+* [javanile/vtiger-preload](https://github.com/javanile/vtiger-preload)  - 
 * [javanile/vtiger-styleci](https://github.com/javanile/vtiger-styleci)  :sleepy: - 
 * [javanile/vtiger-tarball](https://github.com/javanile/vtiger-tarball)  - 
 * [javanile/vtiger-uitype](https://github.com/javanile/vtiger-uitype)  - 
