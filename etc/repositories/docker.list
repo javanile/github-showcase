@@ -4,6 +4,7 @@ javanile/bash-ci=
 javanile/certbot=
 javanile/composer=
 javanile/crontab=
+javanile/curl=
 javanile/dbdiff=
 javanile/docker-ci=
 javanile/docker-compose-job=
