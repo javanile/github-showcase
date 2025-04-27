@@ -1,5 +1,6 @@
 javanile/.github=
 javanile/async-kit=
+javanile/become-maintainer=
 javanile/bname=
 javanile/bnm=
 javanile/bpkg-docker=
@@ -28,6 +29,7 @@ javanile/hackathon=
 javanile/helm-charts= :sleepy:
 javanile/helm-vtiger= :sleepy:
 javanile/heroku-curlmail=
+javanile/homebrew-tap=
 javanile/jquery-calcview=
 javanile/jquery-class=
 javanile/lanspeed=

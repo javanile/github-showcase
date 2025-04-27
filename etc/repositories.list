@@ -7,6 +7,7 @@ javanile/azure.javanile.org
 javanile/backup
 javanile/bash-ci
 javanile/bash-package
+javanile/become-maintainer
 javanile/behat
 javanile/binst.tk
 javanile/blog.lcov.sh
@@ -84,6 +85,7 @@ javanile/hamper
 javanile/helm-charts
 javanile/helm-vtiger
 javanile/heroku-curlmail
+javanile/homebrew-tap
 javanile/hostmon
 javanile/hounder
 javanile/http-robot

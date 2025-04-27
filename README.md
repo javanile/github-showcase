@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2025--04--20%2008%3A25%3A41%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2025--04--27%2008%3A26%3A41%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -185,6 +185,7 @@ Object-oriented, fully tested PHP IMAP library
 ###  Miscellaneous :briefcase:
 * [javanile/.github](https://github.com/javanile/.github)  - 
 * [javanile/async-kit](https://github.com/javanile/async-kit)  - 
+* [javanile/become-maintainer](https://github.com/javanile/become-maintainer)  - 
 * [javanile/bname](https://github.com/javanile/bname)  - 
 * [javanile/bnm](https://github.com/javanile/bnm)  - 
 * [javanile/bpkg-docker](https://github.com/javanile/bpkg-docker)  - 
@@ -213,6 +214,7 @@ Object-oriented, fully tested PHP IMAP library
 * [javanile/helm-charts](https://github.com/javanile/helm-charts)  :sleepy: - 
 * [javanile/helm-vtiger](https://github.com/javanile/helm-vtiger)  :sleepy: - 
 * [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - 
+* [javanile/homebrew-tap](https://github.com/javanile/homebrew-tap)  - 
 * [javanile/jquery-calcview](https://github.com/javanile/jquery-calcview)  - 
 * [javanile/jquery-class](https://github.com/javanile/jquery-class)  - 
 * [javanile/lanspeed](https://github.com/javanile/lanspeed)  - 
