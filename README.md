@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2025--05--25%2008%3A28%3A10%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2025--06--01%2008%3A29%3A10%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -14,7 +14,7 @@
 * [javanile/docker-samba-ad-dc](https://github.com/javanile/docker-samba-ad-dc)  :sleepy: - Docker container running an Active Directory Domain Controller with Samba4.
 Docker container running an Active Directory Domain Controller with Samba4.
 *UNMAINTAINED* Docker container running an Active Directory Domain Controller with Samba4.
-* [javanile/fake-ssh-server](https://github.com/javanile/fake-ssh-server)  :sleepy: - Docker container which can be used in SSH integration tests
+* [javanile/fake-ssh-server](https://github.com/javanile/fake-ssh-server)  - Docker container which can be used in SSH integration tests
 * [javanile/frontline](https://github.com/javanile/frontline)  - 
 * [javanile/gitcut](https://github.com/javanile/gitcut)  - 
 * [javanile/google-spreadsheet-buffer](https://github.com/javanile/google-spreadsheet-buffer)  - Google Spreadsheet Buffer
@@ -69,11 +69,17 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
-* [javanile/behat](https://github.com/javanile/behat)  - 
-* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - 
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
+* [javanile/behat](https://github.com/javanile/behat)  - A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
+* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
 * [javanile/define](https://github.com/javanile/define)  - 
-* [javanile/dotenv](https://github.com/javanile/dotenv)  - 
+* [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 * [javanile/eventy](https://github.com/javanile/eventy)  - 
 * [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
 * [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
@@ -125,7 +131,6 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 * [javanile/yaml](https://github.com/javanile/yaml)  :sleepy: - 
 ###  NodeJS Packages :rhinoceros:
 * [javanile/boor](https://github.com/javanile/boor)  - 
-* [javanile/bootstrap-wizard](https://github.com/javanile/bootstrap-wizard)  :sleepy: - 
 * [javanile/centralio](https://github.com/javanile/centralio)  - 
 * [javanile/cliz](https://github.com/javanile/cliz)  - 
 * [javanile/crisp](https://github.com/javanile/crisp)  - 
@@ -182,6 +187,7 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 * [javanile/become-maintainer](https://github.com/javanile/become-maintainer)  - 
 * [javanile/bname](https://github.com/javanile/bname)  - 
 * [javanile/bnm](https://github.com/javanile/bnm)  - 
+* [javanile/bootstrap-wizard](https://github.com/javanile/bootstrap-wizard)  - 
 * [javanile/bpkg-docker](https://github.com/javanile/bpkg-docker)  - 
 * [javanile/bpkg-status](https://github.com/javanile/bpkg-status)  - 
 * [javanile/cask](https://github.com/javanile/cask)  - 
