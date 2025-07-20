@@ -1,72 +1,62 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2025--07--13%2008%3A29%3A49%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2025--07--20%2008%3A30%3A46%20UTC-blue)
 ###  Docker Images :whale2:
-* [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
+* [javanile/adminer](https://github.com/javanile/adminer)  - 
 * [javanile/backup](https://github.com/javanile/backup)  - 
-* [javanile/bash-ci](https://github.com/javanile/bash-ci)  - The Premium Docker Image for CI/CD
+* [javanile/bash-ci](https://github.com/javanile/bash-ci)  - 
 * [javanile/certbot](https://github.com/javanile/certbot)  - 
-* [javanile/composer](https://github.com/javanile/composer)  - PHP Composer for Docker Dev Environments
-* [javanile/crontab](https://github.com/javanile/crontab)  - 🕓 The best crontab container for your docker compose file.
+* [javanile/composer](https://github.com/javanile/composer)  - 
+* [javanile/crontab](https://github.com/javanile/crontab)  - 
 * [javanile/curl](https://github.com/javanile/curl)  - 
 * [javanile/dbdiff](https://github.com/javanile/dbdiff)  - 
-* [javanile/docker-ci](https://github.com/javanile/docker-ci)  - The Premium Docker Image for CI/CD
+* [javanile/docker-ci](https://github.com/javanile/docker-ci)  - 
 * [javanile/docker-compose-job](https://github.com/javanile/docker-compose-job)  - 
-* [javanile/docker-samba-ad-dc](https://github.com/javanile/docker-samba-ad-dc)  :sleepy: - Docker container running an Active Directory Domain Controller with Samba4.
-Docker container running an Active Directory Domain Controller with Samba4.
-*UNMAINTAINED* Docker container running an Active Directory Domain Controller with Samba4.
-* [javanile/fake-ssh-server](https://github.com/javanile/fake-ssh-server)  - Docker container which can be used in SSH integration tests
+* [javanile/docker-samba-ad-dc](https://github.com/javanile/docker-samba-ad-dc)  :sleepy: - 
+* [javanile/fake-ssh-server](https://github.com/javanile/fake-ssh-server)  - 
 * [javanile/frontline](https://github.com/javanile/frontline)  - 
 * [javanile/gitcut](https://github.com/javanile/gitcut)  - 
-* [javanile/google-spreadsheet-buffer](https://github.com/javanile/google-spreadsheet-buffer)  - Google Spreadsheet Buffer
-* [javanile/humhub-docker](https://github.com/javanile/humhub-docker)  - Alpine-based PHP-FPM and NGINX HumHub docker-container
-Alpine-based PHP-FPM and NGINX HumHub docker-container
-Alpine-based PHP-FPM and NGINX HumHub docker-container
+* [javanile/google-spreadsheet-buffer](https://github.com/javanile/google-spreadsheet-buffer)  - 
+* [javanile/humhub-docker](https://github.com/javanile/humhub-docker)  - 
 * [javanile/localhost](https://github.com/javanile/localhost)  - 
-* [javanile/loopdoor](https://github.com/javanile/loopdoor)  :sleepy: - Development ready persistent tunnel 🔐
+* [javanile/loopdoor](https://github.com/javanile/loopdoor)  :sleepy: - 
 * [javanile/mkdocs](https://github.com/javanile/mkdocs)  - 
 * [javanile/monit-dashboard](https://github.com/javanile/monit-dashboard)  - 
 * [javanile/mssql](https://github.com/javanile/mssql)  - 
-* [javanile/novnc](https://github.com/javanile/novnc)  - Ready to use NoVNC client for SeleniumHQ on Docker
+* [javanile/novnc](https://github.com/javanile/novnc)  - 
 * [javanile/oauth-playground](https://github.com/javanile/oauth-playground)  - 
 * [javanile/openvpn](https://github.com/javanile/openvpn)  - 
 * [javanile/phpdox](https://github.com/javanile/phpdox)  - 
 * [javanile/phpservermonitor](https://github.com/javanile/phpservermonitor)  - 
-* [javanile/proxy](https://github.com/javanile/proxy)  - Official Javanile Proxy
+* [javanile/proxy](https://github.com/javanile/proxy)  - 
 * [javanile/pwd](https://github.com/javanile/pwd)  :sleepy: - 
 * [javanile/roundcube](https://github.com/javanile/roundcube)  - 
 * [javanile/selenium-test](https://github.com/javanile/selenium-test)  - 
 * [javanile/smart-rm](https://github.com/javanile/smart-rm)  - 
 * [javanile/sonarqube](https://github.com/javanile/sonarqube)  :sleepy: - 
-* [javanile/symvol](https://github.com/javanile/symvol)  :sleepy: - Symbolic Volume for Docker
+* [javanile/symvol](https://github.com/javanile/symvol)  :sleepy: - 
 * [javanile/tarjam](https://github.com/javanile/tarjam)  :sleepy: - 
-* [javanile/upload](https://github.com/javanile/upload)  - 📤 Upload files with cURL and Docker
-* [javanile/vtiger-dev](https://github.com/javanile/vtiger-dev)  - vtiger docker image released for development environment
+* [javanile/upload](https://github.com/javanile/upload)  - 
+* [javanile/vtiger-dev](https://github.com/javanile/vtiger-dev)  - 
 * [javanile/vtiger-skeleton](https://github.com/javanile/vtiger-skeleton)  :sleepy: - 
 * [javanile/winexe](https://github.com/javanile/winexe)  - 
 * [javanile/xdebug](https://github.com/javanile/xdebug)  :sleepy: - 
 ###  Shell Packages :shell:
-* [javanile/bash-package](https://github.com/javanile/bash-package)  - Standard Bash Package
-* [javanile/bpkg-ci](https://github.com/javanile/bpkg-ci)  - BPKG/CI - The power of BPKG on your CI/CD pipelines or workflows
+* [javanile/bash-package](https://github.com/javanile/bash-package)  - 
+* [javanile/bpkg-ci](https://github.com/javanile/bpkg-ci)  - 
 * [javanile/bump.sh](https://github.com/javanile/bump.sh)  :sleepy: - 
-* [javanile/dist.sh](https://github.com/javanile/dist.sh)  - 📦 The perfect ZIP file bundler
-* [javanile/fork.sh](https://github.com/javanile/fork.sh)  - 🏤 Maintenance strategy for prototype-based projects
-* [javanile/ghostplay](https://github.com/javanile/ghostplay)  - Automatic terminal input tool - ghost types your script!
-Automatic terminal input tool - ghost types your script!
-Automatic terminal input tool - ghost types your script!
-* [javanile/git-dc](https://github.com/javanile/git-dc)  :sleepy: - ☢ Git Dangerous Commands also know GIT-DC
+* [javanile/dist.sh](https://github.com/javanile/dist.sh)  - 
+* [javanile/fork.sh](https://github.com/javanile/fork.sh)  - 
+* [javanile/ghostplay](https://github.com/javanile/ghostplay)  - 
+* [javanile/git-dc](https://github.com/javanile/git-dc)  :sleepy: - 
 * [javanile/gitlab-ci-helper](https://github.com/javanile/gitlab-ci-helper)  - 
 * [javanile/gitlab-dist](https://github.com/javanile/gitlab-dist)  - 
 * [javanile/gitlab-knock](https://github.com/javanile/gitlab-knock)  - 
-* [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 🔔 inotifywait alternative with polling
-* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 🔮 LCOV framework for Shell projects
-* [javanile/pipetest](https://github.com/javanile/pipetest)  - ⛲ A minimal set of shell functions useful to implement assertions through pipe chaining. Loved by developer
+* [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 
+* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 
+* [javanile/pipetest](https://github.com/javanile/pipetest)  - 
 ###  GitHub Actions :octocat:
-* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - Automatically Commit changed Files back to Github with Github Actions
-Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
-Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
-Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
+* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - 
+* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - 
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
 * [javanile/behat](https://github.com/javanile/behat)  - 
