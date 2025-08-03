@@ -93,6 +93,7 @@ javanile/human-mink-extension
 javanile/humhub
 javanile/humhub-docker
 javanile/ifttt
+javanile/imaphook
 javanile/inotifywait-polling
 javanile/install
 javanile/ipqueue
@@ -193,6 +194,7 @@ javanile/springboard
 javanile/status.javanile.org
 javanile/styleci
 javanile/symvol
+javanile/tal
 javanile/tarjam
 javanile/tigermate
 javanile/todaynotes
