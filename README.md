@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2025--10--19%2008%3A26%3A28%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2025--10--26%2008%3A27%3A26%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -57,19 +57,29 @@ Automatic terminal input tool - ghost types your script!
 * [javanile/gitlab-ci-helper](https://github.com/javanile/gitlab-ci-helper)  - 
 * [javanile/gitlab-dist](https://github.com/javanile/gitlab-dist)  - 
 * [javanile/gitlab-knock](https://github.com/javanile/gitlab-knock)  - 
-* [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 
-* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 
-* [javanile/pipetest](https://github.com/javanile/pipetest)  - 
+* [javanile/inotifywait-polling](https://github.com/javanile/inotifywait-polling)  - 🔔 inotifywait alternative with polling
+* [javanile/lcov.sh](https://github.com/javanile/lcov.sh)  - 🔮 LCOV framework for Shell projects
+* [javanile/pipetest](https://github.com/javanile/pipetest)  - ⛲ A minimal set of shell functions useful to implement assertions through pipe chaining. Loved by developer
 ###  GitHub Actions :octocat:
-* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - 
-* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - 
+* [javanile/git-auto-commit-action](https://github.com/javanile/git-auto-commit-action)  :sleepy: - Automatically Commit changed Files back to Github with Github Actions
+Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+* [javanile/jekyll-build-action](https://github.com/javanile/jekyll-build-action)  - Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
+Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
+Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
-* [javanile/behat](https://github.com/javanile/behat)  - 
-* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - 
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
+* [javanile/behat](https://github.com/javanile/behat)  - A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
+* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
 * [javanile/define](https://github.com/javanile/define)  - 
-* [javanile/dotenv](https://github.com/javanile/dotenv)  - 
+* [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 * [javanile/eventy](https://github.com/javanile/eventy)  - 
 * [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
 * [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
@@ -79,6 +89,7 @@ Automatic terminal input tool - ghost types your script!
 * [javanile/human-mink-extension](https://github.com/javanile/human-mink-extension)  - 
 * [javanile/humhub](https://github.com/javanile/humhub)  - 
 * [javanile/ipqueue](https://github.com/javanile/ipqueue)  :sleepy: - 
+* [javanile/laravel-flavour](https://github.com/javanile/laravel-flavour)  - 
 * [javanile/lest](https://github.com/javanile/lest)  - 
 * [javanile/lime](https://github.com/javanile/lime)  :sleepy: - 
 * [javanile/mail-cli](https://github.com/javanile/mail-cli)  - 
