@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2025--11--23%2008%3A29%3A53%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2025--11--30%2008%3A29%3A12%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -69,9 +69,15 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
-* [javanile/behat](https://github.com/javanile/behat)  - 
-* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - 
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
+* [javanile/behat](https://github.com/javanile/behat)  - A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
+A self-contained Docker image to run Behat with no external dependencies
+* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
+Object-oriented, fully tested PHP IMAP library
 * [javanile/define](https://github.com/javanile/define)  - 
 * [javanile/dotenv](https://github.com/javanile/dotenv)  - 
 * [javanile/eventy](https://github.com/javanile/eventy)  - 
@@ -157,39 +163,43 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 * [javanile/azure.javanile.org](https://github.com/javanile/azure.javanile.org)  - 
 * [javanile/binst.tk](https://github.com/javanile/binst.tk)  - 
 * [javanile/blog.lcov.sh](https://github.com/javanile/blog.lcov.sh)  - 
-* [javanile/bpkg.javanile.org](https://github.com/javanile/bpkg.javanile.org)  - 
-* [javanile/cuba](https://github.com/javanile/cuba)  - 
+* [javanile/bpkg.javanile.org](https://github.com/javanile/bpkg.javanile.org)  - Fork of https://bpkg.sh
+Homepage for the bpkg project http://bpkg.sh
+Homepage for the bpkg project http://bpkg.sh
+* [javanile/cuba](https://github.com/javanile/cuba)  - cURL + BASH = cuba
 * [javanile/docker-hooks](https://github.com/javanile/docker-hooks)  - 
-* [javanile/docs.javanile.org](https://github.com/javanile/docs.javanile.org)  - 
-* [javanile/editorconfig](https://github.com/javanile/editorconfig)  - 
-* [javanile/get.javanile.org](https://github.com/javanile/get.javanile.org)  - 
+* [javanile/docs.javanile.org](https://github.com/javanile/docs.javanile.org)  - Official Documentation Portal
+* [javanile/editorconfig](https://github.com/javanile/editorconfig)  - EditorConfig on the fly!
+* [javanile/get.javanile.org](https://github.com/javanile/get.javanile.org)  - Official Javanile Installer
 * [javanile/gitcat](https://github.com/javanile/gitcat)  - 
 * [javanile/install](https://github.com/javanile/install)  :sleepy: - 
-* [javanile/javanile.github.io](https://github.com/javanile/javanile.github.io)  - 
-* [javanile/linkedin-button](https://github.com/javanile/linkedin-button)  - 
-* [javanile/mush](https://github.com/javanile/mush)  - 
+* [javanile/javanile.github.io](https://github.com/javanile/javanile.github.io)  - Public website
+* [javanile/linkedin-button](https://github.com/javanile/linkedin-button)  - 🔗 Create Magic LinkedIn Button to bump your README.md file
+* [javanile/mush](https://github.com/javanile/mush)  - Mush, a build system for shell.
 * [javanile/packages.javanile.org](https://github.com/javanile/packages.javanile.org)  - 
 * [javanile/password](https://github.com/javanile/password)  - 
-* [javanile/shell.javanile.org](https://github.com/javanile/shell.javanile.org)  :sleepy: - 
-* [javanile/springboard](https://github.com/javanile/springboard)  - 
-* [javanile/twitter-button](https://github.com/javanile/twitter-button)  - 
-* [javanile/webrequest-roadmap](https://github.com/javanile/webrequest-roadmap)  - 
+* [javanile/shell.javanile.org](https://github.com/javanile/shell.javanile.org)  :sleepy: - Public website
+* [javanile/springboard](https://github.com/javanile/springboard)  - 🌈 Your project's first place
+* [javanile/twitter-button](https://github.com/javanile/twitter-button)  - 🐦 Create Magic Twitter Button to bump your README.md file
+* [javanile/webrequest-roadmap](https://github.com/javanile/webrequest-roadmap)  - Roadmap of Webrequest Revolution
 ###  Awesome Lists :sunglasses:
 * [javanile/awesome-json-server](https://github.com/javanile/awesome-json-server)  - 
-* [javanile/awesome-webrequest](https://github.com/javanile/awesome-webrequest)  - 
+* [javanile/awesome-webrequest](https://github.com/javanile/awesome-webrequest)  - 🚀 A collection of awesome webrequest snippets, resources and shiny things.
 ###  Miscellaneous :briefcase:
 * [javanile/.github](https://github.com/javanile/.github)  - 
 * [javanile/async-kit](https://github.com/javanile/async-kit)  - 
-* [javanile/become-maintainer](https://github.com/javanile/become-maintainer)  - 
+* [javanile/become-maintainer](https://github.com/javanile/become-maintainer)  - How to Become a Maintainer 🚀
 * [javanile/bname](https://github.com/javanile/bname)  - 
-* [javanile/bnm](https://github.com/javanile/bnm)  - 
-* [javanile/bootstrap-wizard](https://github.com/javanile/bootstrap-wizard)  - 
+* [javanile/bnm](https://github.com/javanile/bnm)  - Bash Network Manager
+* [javanile/bootstrap-wizard](https://github.com/javanile/bootstrap-wizard)  - This twitter bootstrap plugin builds a wizard out of a formatter tabbable structure. It allows to build a wizard functionality using buttons to go through the different wizard steps and using events allows to hook into each step individually.
+This twitter bootstrap plugin builds a wizard out of a formatter tabbable structure. It allows to build a wizard functionality using buttons to go through the different wizard steps and using events allows to hook into each step individually.
+This twitter bootstrap plugin builds a wizard out of a formatter tabbable structure. It allows to build a wizard functionality using buttons to go through the different wizard steps and using events allows to hook into each step individually.
 * [javanile/bpkg-docker](https://github.com/javanile/bpkg-docker)  - 
 * [javanile/bpkg-status](https://github.com/javanile/bpkg-status)  - 
-* [javanile/cask](https://github.com/javanile/cask)  - 
+* [javanile/cask](https://github.com/javanile/cask)  - Lightweight IaC
 * [javanile/ci-status](https://github.com/javanile/ci-status)  - 
 * [javanile/ci.lcov.sh](https://github.com/javanile/ci.lcov.sh)  :sleepy: - 
-* [javanile/cmdlint](https://github.com/javanile/cmdlint)  - 
+* [javanile/cmdlint](https://github.com/javanile/cmdlint)  - Command-line output linter
 * [javanile/contributing](https://github.com/javanile/contributing)  - 
 * [javanile/devdb](https://github.com/javanile/devdb)  - 
 * [javanile/devhub](https://github.com/javanile/devhub)  - 
@@ -199,17 +209,17 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 * [javanile/docker-entrypoint](https://github.com/javanile/docker-entrypoint)  - 
 * [javanile/docker-status](https://github.com/javanile/docker-status)  - 
 * [javanile/email-test](https://github.com/javanile/email-test)  - 
-* [javanile/forkfile](https://github.com/javanile/forkfile)  - 
-* [javanile/git-ahead](https://github.com/javanile/git-ahead)  - 
-* [javanile/github-showcase](https://github.com/javanile/github-showcase)  - 
-* [javanile/github-traffic](https://github.com/javanile/github-traffic)  - 
+* [javanile/forkfile](https://github.com/javanile/forkfile)  - Forkfile
+* [javanile/git-ahead](https://github.com/javanile/git-ahead)  - Identifies branches 🌿 with commits ahead of the current branch
+* [javanile/github-showcase](https://github.com/javanile/github-showcase)  - Official Showcase
+* [javanile/github-traffic](https://github.com/javanile/github-traffic)  - 📈 GitHub Traffic Report - Generate an awesome traffic report from your repositories
 * [javanile/gitlab-report-ci](https://github.com/javanile/gitlab-report-ci)  - 
 * [javanile/glossar.javanile.org](https://github.com/javanile/glossar.javanile.org)  :sleepy: - 
-* [javanile/google-php-imap](https://github.com/javanile/google-php-imap)  - 
-* [javanile/hackathon](https://github.com/javanile/hackathon)  - 
+* [javanile/google-php-imap](https://github.com/javanile/google-php-imap)  - Open IMAP connection without password (for Google/Gmail)
+* [javanile/hackathon](https://github.com/javanile/hackathon)  - Official Javanile Hackathon
 * [javanile/helm-charts](https://github.com/javanile/helm-charts)  :sleepy: - 
 * [javanile/helm-vtiger](https://github.com/javanile/helm-vtiger)  :sleepy: - 
-* [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - 
+* [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - Send emails via CURL and Heroku
 * [javanile/homebrew-tap](https://github.com/javanile/homebrew-tap)  - 
 * [javanile/jquery-calcview](https://github.com/javanile/jquery-calcview)  - 
 * [javanile/jquery-class](https://github.com/javanile/jquery-class)  - 
