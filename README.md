@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026--01--11%2008%3A33%3A25%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026--01--18%2008%3A32%3A58%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -69,24 +69,16 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
-* [javanile/behat](https://github.com/javanile/behat)  - A self-contained Docker image to run Behat with no external dependencies
-A self-contained Docker image to run Behat with no external dependencies
-A self-contained Docker image to run Behat with no external dependencies
-* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
-Object-oriented, fully tested PHP IMAP library
-Object-oriented, fully tested PHP IMAP library
+* [javanile/behat](https://github.com/javanile/behat)  - 
+* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - 
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
 * [javanile/define](https://github.com/javanile/define)  - 
-* [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-* [javanile/eventy](https://github.com/javanile/eventy)  - WP-like actions and filters for Vtiger
-WordPress-like actions and filters for Laravel
-WordPress-like actions and filters for Laravel
-* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 🀄 
-* [javanile/granular](https://github.com/javanile/granular)  :sleepy: - WordPress extension framework based on object-oriented paradigm.
-* [javanile/hamper](https://github.com/javanile/hamper)  - 📚 Modern database library for vtiger
-* [javanile/hounder](https://github.com/javanile/hounder)  - Static code analysis for vtiger
+* [javanile/dotenv](https://github.com/javanile/dotenv)  - 
+* [javanile/eventy](https://github.com/javanile/eventy)  - 
+* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
+* [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
+* [javanile/hamper](https://github.com/javanile/hamper)  - 
+* [javanile/hounder](https://github.com/javanile/hounder)  - 
 * [javanile/http-robot](https://github.com/javanile/http-robot)  - 
 * [javanile/human-mink-extension](https://github.com/javanile/human-mink-extension)  - 
 * [javanile/humhub](https://github.com/javanile/humhub)  - 
