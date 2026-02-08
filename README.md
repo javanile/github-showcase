@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026--02--01%2008%3A38%3A58%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026--02--08%2008%3A38%3A58%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -30,7 +30,7 @@ Alpine-based PHP-FPM and NGINX HumHub docker-container
 * [javanile/oauth-playground](https://github.com/javanile/oauth-playground)  - 
 * [javanile/openvpn](https://github.com/javanile/openvpn)  - 
 * [javanile/phpdox](https://github.com/javanile/phpdox)  - 
-* [javanile/phpservermonitor](https://github.com/javanile/phpservermonitor)  - 
+* [javanile/phpservermonitor](https://github.com/javanile/phpservermonitor)  - ⚡️phpservermonitor – server monitoring without the hassle
 * [javanile/proxy](https://github.com/javanile/proxy)  - Official Javanile Proxy
 * [javanile/pwd](https://github.com/javanile/pwd)  :sleepy: - 
 * [javanile/roundcube](https://github.com/javanile/roundcube)  - 
