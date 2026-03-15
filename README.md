@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026--03--08%2008%3A37%3A58%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026--03--15%2008%3A45%3A11%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -49,11 +49,9 @@ Alpine-based PHP-FPM and NGINX HumHub docker-container
 * [javanile/bpkg-ci](https://github.com/javanile/bpkg-ci)  - BPKG/CI - The power of BPKG on your CI/CD pipelines or workflows
 * [javanile/bump.sh](https://github.com/javanile/bump.sh)  :sleepy: - 
 * [javanile/dist.sh](https://github.com/javanile/dist.sh)  - 📦 The perfect ZIP file bundler
-* [javanile/fork.sh](https://github.com/javanile/fork.sh)  - 🏤 Maintenance strategy for prototype-based projects
-* [javanile/ghostplay](https://github.com/javanile/ghostplay)  - Automatic terminal input tool - ghost types your script!
-Automatic terminal input tool - ghost types your script!
-Automatic terminal input tool - ghost types your script!
-* [javanile/git-dc](https://github.com/javanile/git-dc)  :sleepy: - ☢ Git Dangerous Commands also know GIT-DC
+* [javanile/fork.sh](https://github.com/javanile/fork.sh)  - 
+* [javanile/ghostplay](https://github.com/javanile/ghostplay)  - 
+* [javanile/git-dc](https://github.com/javanile/git-dc)  :sleepy: - 
 * [javanile/gitlab-ci-helper](https://github.com/javanile/gitlab-ci-helper)  - 
 * [javanile/gitlab-dist](https://github.com/javanile/gitlab-dist)  - 
 * [javanile/gitlab-knock](https://github.com/javanile/gitlab-knock)  - 
