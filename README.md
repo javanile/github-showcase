@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026--04--05%2008%3A52%3A17%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026--04--12%2008%3A56%3A45%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -79,65 +79,57 @@ CRON for PHP: Calculate the next or previous run date and determine if a CRON ex
 Object-oriented, fully tested PHP IMAP library
 Object-oriented, fully tested PHP IMAP library
 * [javanile/define](https://github.com/javanile/define)  - 
-* [javanile/dotenv](https://github.com/javanile/dotenv)  - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-* [javanile/eventy](https://github.com/javanile/eventy)  - WP-like actions and filters for Vtiger
-WordPress-like actions and filters for Laravel
-WordPress-like actions and filters for Laravel
-* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 🀄 
-* [javanile/granular](https://github.com/javanile/granular)  :sleepy: - WordPress extension framework based on object-oriented paradigm.
-* [javanile/hamper](https://github.com/javanile/hamper)  - 📚 Modern database library for vtiger
-* [javanile/hounder](https://github.com/javanile/hounder)  - Static code analysis for vtiger
+* [javanile/dotenv](https://github.com/javanile/dotenv)  - 
+* [javanile/eventy](https://github.com/javanile/eventy)  - 
+* [javanile/glossar](https://github.com/javanile/glossar)  :sleepy: - 
+* [javanile/granular](https://github.com/javanile/granular)  :sleepy: - 
+* [javanile/hamper](https://github.com/javanile/hamper)  - 
+* [javanile/hounder](https://github.com/javanile/hounder)  - 
 * [javanile/http-robot](https://github.com/javanile/http-robot)  - 
-* [javanile/human-mink-extension](https://github.com/javanile/human-mink-extension)  - Behat MinkExtension for humans
-* [javanile/humhub](https://github.com/javanile/humhub)  - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
-HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
-HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
-* [javanile/ipqueue](https://github.com/javanile/ipqueue)  :sleepy: - Service discovery over HTTP API
+* [javanile/human-mink-extension](https://github.com/javanile/human-mink-extension)  - 
+* [javanile/humhub](https://github.com/javanile/humhub)  - 
+* [javanile/ipqueue](https://github.com/javanile/ipqueue)  :sleepy: - 
 * [javanile/laravel-flavour](https://github.com/javanile/laravel-flavour)  - 
-* [javanile/lest](https://github.com/javanile/lest)  - Legacy Code Testing Framework
-* [javanile/lime](https://github.com/javanile/lime)  :sleepy: - Lime is a LALR(1) parser generator written in PHP. The original source code can be found at http://sourceforge.net/projects/lime-php/, this is just a fork.
-Lime is a LALR(1) parser generator written in PHP. The original source code can be found at http://sourceforge.net/projects/lime-php/, this is just a fork.
-Lime is a LALR(1) parser generator written in PHP. The original source code can be found at http://sourceforge.net/projects/lime-php/, this is just a fork.
+* [javanile/lest](https://github.com/javanile/lest)  - 
+* [javanile/lime](https://github.com/javanile/lime)  :sleepy: - 
 * [javanile/mail-cli](https://github.com/javanile/mail-cli)  - 
-* [javanile/masterplan](https://github.com/javanile/masterplan)  :sleepy: - Business Automation from CLI
-* [javanile/moldable](https://github.com/javanile/moldable)  - The only PHP & MySQL ORM for Continuous Delivery. Using javanile/moldable can eliminate the step of data migrations and schema changes, often manual steps or exceptions to a continuous delivery workflow.
+* [javanile/masterplan](https://github.com/javanile/masterplan)  :sleepy: - 
+* [javanile/moldable](https://github.com/javanile/moldable)  - 
 * [javanile/moldable.github.io](https://github.com/javanile/moldable.github.io)  :sleepy: - 
-* [javanile/mysql-import](https://github.com/javanile/mysql-import)  :sleepy: - 🗃 Import SQL file
+* [javanile/mysql-import](https://github.com/javanile/mysql-import)  :sleepy: - 
 * [javanile/notification](https://github.com/javanile/notification)  - 
 * [javanile/php-access-token](https://github.com/javanile/php-access-token)  - 
 * [javanile/php-gemstone](https://github.com/javanile/php-gemstone)  - 
-* [javanile/php-global-var](https://github.com/javanile/php-global-var)  :sleepy: - 👷 Replacement strategy of messy code because of the global
-* [javanile/php-glossary](https://github.com/javanile/php-glossary)  - Demonstrative Conceptual Implementation: Glossary Code Analysis Tool for PHP
+* [javanile/php-global-var](https://github.com/javanile/php-global-var)  :sleepy: - 
+* [javanile/php-glossary](https://github.com/javanile/php-glossary)  - 
 * [javanile/php-imap-outlook](https://github.com/javanile/php-imap-outlook)  - 
-* [javanile/php-imap2](https://github.com/javanile/php-imap2)  - PHP IMAP with OAUTH2
+* [javanile/php-imap2](https://github.com/javanile/php-imap2)  - 
 * [javanile/php-imap2-demo](https://github.com/javanile/php-imap2-demo)  - 
 * [javanile/php-input](https://github.com/javanile/php-input)  - 
-* [javanile/php-package](https://github.com/javanile/php-package)  :sleepy: - Standard PHP package skeleton.
-Standard PHP package skeleton.
-Standard PHP package skeleton.
+* [javanile/php-package](https://github.com/javanile/php-package)  :sleepy: - 
 * [javanile/php-sheetbase](https://github.com/javanile/php-sheetbase)  - 
 * [javanile/php-websocket](https://github.com/javanile/php-websocket)  - 
-* [javanile/producer](https://github.com/javanile/producer)  - Laravel prototyping tool
-* [javanile/propan](https://github.com/javanile/propan)  :sleepy: - 🍥 Project Pancake
-* [javanile/provisioner](https://github.com/javanile/provisioner)  :sleepy: - Web API to provisioning multi-tenant application
-* [javanile/report-ci](https://github.com/javanile/report-ci)  :sleepy: - 📋 Upload, store & share your reports from your favourite CI pipeline.
+* [javanile/producer](https://github.com/javanile/producer)  - 
+* [javanile/propan](https://github.com/javanile/propan)  :sleepy: - 
+* [javanile/provisioner](https://github.com/javanile/provisioner)  :sleepy: - 
+* [javanile/report-ci](https://github.com/javanile/report-ci)  :sleepy: - 
 * [javanile/sheetbase](https://github.com/javanile/sheetbase)  - 
-* [javanile/tigermate](https://github.com/javanile/tigermate)  - 🚨 NEWS!! vtc – the command-line tool that revolutionizes your CRM (follow the link below 👇)
-* [javanile/todaynotes](https://github.com/javanile/todaynotes)  - 📝 TodayNotes - Meeting notes definitely crisp and clean (and much more)
-* [javanile/vtiger-cli](https://github.com/javanile/vtiger-cli)  - 🛠 The ultimate CLI for vtiger
-* [javanile/vtiger-client](https://github.com/javanile/vtiger-client)  - 🏭 Industry Standard Vtiger API Client
+* [javanile/tigermate](https://github.com/javanile/tigermate)  - 
+* [javanile/todaynotes](https://github.com/javanile/todaynotes)  - 
+* [javanile/vtiger-cli](https://github.com/javanile/vtiger-cli)  - 
+* [javanile/vtiger-client](https://github.com/javanile/vtiger-client)  - 
 * [javanile/vtiger-client-demo](https://github.com/javanile/vtiger-client-demo)  :sleepy: - 
 * [javanile/vtiger-composer](https://github.com/javanile/vtiger-composer)  :sleepy: - 
 * [javanile/vtiger-core-installer](https://github.com/javanile/vtiger-core-installer)  :sleepy: - 
-* [javanile/vtiger-custom-function](https://github.com/javanile/vtiger-custom-function)  - Vtiger Workflow Custom Function
-* [javanile/vtiger-propan](https://github.com/javanile/vtiger-propan)  :sleepy: - VTiger CRM with Propan
+* [javanile/vtiger-custom-function](https://github.com/javanile/vtiger-custom-function)  - 
+* [javanile/vtiger-propan](https://github.com/javanile/vtiger-propan)  :sleepy: - 
 * [javanile/vtiger-psr4](https://github.com/javanile/vtiger-psr4)  :sleepy: - 
 * [javanile/vtiger-seed](https://github.com/javanile/vtiger-seed)  :sleepy: - 
 * [javanile/webrequest](https://github.com/javanile/webrequest)  - 
 * [javanile/webrequest-csv](https://github.com/javanile/webrequest-csv)  - 
 * [javanile/webrequest-json](https://github.com/javanile/webrequest-json)  - 
 * [javanile/wirecraft](https://github.com/javanile/wirecraft)  :sleepy: - 
-* [javanile/yaml](https://github.com/javanile/yaml)  :sleepy: - Include Yaml on Yaml for PHP
+* [javanile/yaml](https://github.com/javanile/yaml)  :sleepy: - 
 ###  NodeJS Packages :rhinoceros:
 * [javanile/boor](https://github.com/javanile/boor)  - 
 * [javanile/centralio](https://github.com/javanile/centralio)  - 
@@ -151,9 +143,7 @@ Standard PHP package skeleton.
 * [javanile/jsonform](https://github.com/javanile/jsonform)  - 
 * [javanile/lcov-sh-action](https://github.com/javanile/lcov-sh-action)  :sleepy: - 
 * [javanile/make.bat](https://github.com/javanile/make.bat)  - 
-* [javanile/n](https://github.com/javanile/n)  - Node version management
-Node version management
-Node version management
+* [javanile/n](https://github.com/javanile/n)  - 
 * [javanile/nestarch](https://github.com/javanile/nestarch)  - 
 * [javanile/nodejs-fu](https://github.com/javanile/nodejs-fu)  :sleepy: - 
 * [javanile/nodejs-package](https://github.com/javanile/nodejs-package)  :sleepy: - 
@@ -190,6 +180,7 @@ Node version management
 * [javanile/springboard](https://github.com/javanile/springboard)  - 
 * [javanile/twitter-button](https://github.com/javanile/twitter-button)  - 
 * [javanile/webrequest-roadmap](https://github.com/javanile/webrequest-roadmap)  - 
+* [javanile/zub](https://github.com/javanile/zub)  - 
 ###  Awesome Lists :sunglasses:
 * [javanile/awesome-json-server](https://github.com/javanile/awesome-json-server)  - 
 * [javanile/awesome-webrequest](https://github.com/javanile/awesome-webrequest)  - 
@@ -215,28 +206,28 @@ Node version management
 * [javanile/docker-entrypoint](https://github.com/javanile/docker-entrypoint)  - 
 * [javanile/docker-status](https://github.com/javanile/docker-status)  - 
 * [javanile/email-test](https://github.com/javanile/email-test)  - 
-* [javanile/forkfile](https://github.com/javanile/forkfile)  - Forkfile
+* [javanile/forkfile](https://github.com/javanile/forkfile)  - 
 * [javanile/git-ahead](https://github.com/javanile/git-ahead)  - 
 * [javanile/github-showcase](https://github.com/javanile/github-showcase)  - 
 * [javanile/github-traffic](https://github.com/javanile/github-traffic)  - 
 * [javanile/gitlab-report-ci](https://github.com/javanile/gitlab-report-ci)  - 
 * [javanile/glossar.javanile.org](https://github.com/javanile/glossar.javanile.org)  :sleepy: - 
-* [javanile/google-php-imap](https://github.com/javanile/google-php-imap)  - Open IMAP connection without password (for Google/Gmail)
+* [javanile/google-php-imap](https://github.com/javanile/google-php-imap)  - 
 * [javanile/hackathon](https://github.com/javanile/hackathon)  - 
 * [javanile/helm-charts](https://github.com/javanile/helm-charts)  :sleepy: - 
 * [javanile/helm-vtiger](https://github.com/javanile/helm-vtiger)  :sleepy: - 
-* [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - Send emails via CURL and Heroku
+* [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - 
 * [javanile/homebrew-tap](https://github.com/javanile/homebrew-tap)  - 
 * [javanile/jquery-calcview](https://github.com/javanile/jquery-calcview)  - 
 * [javanile/jquery-class](https://github.com/javanile/jquery-class)  - 
 * [javanile/lanspeed](https://github.com/javanile/lanspeed)  - 
 * [javanile/logo](https://github.com/javanile/logo)  - 
 * [javanile/mariadb](https://github.com/javanile/mariadb)  - 
-* [javanile/mush-get-started](https://github.com/javanile/mush-get-started)  - 🚀 Mush Get Started!
+* [javanile/mush-get-started](https://github.com/javanile/mush-get-started)  - 
 * [javanile/myddleware](https://github.com/javanile/myddleware)  :sleepy: - 
-* [javanile/mysql](https://github.com/javanile/mysql)  - The best MySQL images for your docker compose file.
+* [javanile/mysql](https://github.com/javanile/mysql)  - 
 * [javanile/mysql.javanile.org](https://github.com/javanile/mysql.javanile.org)  - 
-* [javanile/node](https://github.com/javanile/node)  - Dockerized Node.js Environment with Updated npm
+* [javanile/node](https://github.com/javanile/node)  - 
 * [javanile/olint](https://github.com/javanile/olint)  - 
 * [javanile/openmaintainer](https://github.com/javanile/openmaintainer)  - 
 * [javanile/package-manager](https://github.com/javanile/package-manager)  - 
@@ -283,3 +274,4 @@ Node version management
 * [javanile/vuejs-overlay-container](https://github.com/javanile/vuejs-overlay-container)  - 
 * [javanile/webrequest-spreadsheet](https://github.com/javanile/webrequest-spreadsheet)  - 
 * [javanile/websocket-cron](https://github.com/javanile/websocket-cron)  - 
+* [javanile/zig-ppa](https://github.com/javanile/zig-ppa)  - 
