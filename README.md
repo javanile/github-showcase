@@ -1,5 +1,5 @@
 # javanile (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026--06--14%2010%3A50%3A51%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026--06--21%2011%3A19%3A15%20UTC-blue)
 ###  Docker Images :whale2:
 * [javanile/adminer](https://github.com/javanile/adminer)  - Database management in a single PHP file.
 * [javanile/backup](https://github.com/javanile/backup)  - 
@@ -69,15 +69,9 @@ Plain in-place Jekyll build action to be used in pipelines with a variety of pos
 Plain in-place Jekyll build action to be used in pipelines with a variety of possible deploy targets
 * [javanile/make-action](https://github.com/javanile/make-action)  - 
 ###  PHP Packages :elephant:
-* [javanile/behat](https://github.com/javanile/behat)  - A self-contained Docker image to run Behat with no external dependencies
-A self-contained Docker image to run Behat with no external dependencies
-A self-contained Docker image to run Behat with no external dependencies
-* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - Object-oriented, fully tested PHP IMAP library
-Object-oriented, fully tested PHP IMAP library
-Object-oriented, fully tested PHP IMAP library
+* [javanile/behat](https://github.com/javanile/behat)  - 
+* [javanile/cron-expression](https://github.com/javanile/cron-expression)  - 
+* [javanile/ddeboer-imap](https://github.com/javanile/ddeboer-imap)  - 
 * [javanile/define](https://github.com/javanile/define)  - 
 * [javanile/dotenv](https://github.com/javanile/dotenv)  - 
 * [javanile/eventy](https://github.com/javanile/eventy)  - 
@@ -206,31 +200,31 @@ Object-oriented, fully tested PHP IMAP library
 * [javanile/docker-entrypoint](https://github.com/javanile/docker-entrypoint)  - 
 * [javanile/docker-status](https://github.com/javanile/docker-status)  - 
 * [javanile/email-test](https://github.com/javanile/email-test)  - 
-* [javanile/forkfile](https://github.com/javanile/forkfile)  - Forkfile
-* [javanile/git-ahead](https://github.com/javanile/git-ahead)  - Identifies branches 🌿 with commits ahead of the current branch
-* [javanile/github-showcase](https://github.com/javanile/github-showcase)  - Official Showcase
-* [javanile/github-traffic](https://github.com/javanile/github-traffic)  - 📈 GitHub Traffic Report - Generate an awesome traffic report from your repositories
+* [javanile/forkfile](https://github.com/javanile/forkfile)  - 
+* [javanile/git-ahead](https://github.com/javanile/git-ahead)  - 
+* [javanile/github-showcase](https://github.com/javanile/github-showcase)  - 
+* [javanile/github-traffic](https://github.com/javanile/github-traffic)  - 
 * [javanile/gitlab-report-ci](https://github.com/javanile/gitlab-report-ci)  - 
 * [javanile/glossar.javanile.org](https://github.com/javanile/glossar.javanile.org)  :sleepy: - 
-* [javanile/google-php-imap](https://github.com/javanile/google-php-imap)  - Open IMAP connection without password (for Google/Gmail)
-* [javanile/hackathon](https://github.com/javanile/hackathon)  - Official Javanile Hackathon
+* [javanile/google-php-imap](https://github.com/javanile/google-php-imap)  - 
+* [javanile/hackathon](https://github.com/javanile/hackathon)  - 
 * [javanile/helm-charts](https://github.com/javanile/helm-charts)  :sleepy: - 
 * [javanile/helm-vtiger](https://github.com/javanile/helm-vtiger)  :sleepy: - 
-* [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - Send emails via CURL and Heroku
+* [javanile/heroku-curlmail](https://github.com/javanile/heroku-curlmail)  - 
 * [javanile/homebrew-tap](https://github.com/javanile/homebrew-tap)  - 
 * [javanile/jquery-calcview](https://github.com/javanile/jquery-calcview)  - 
 * [javanile/jquery-class](https://github.com/javanile/jquery-class)  - 
 * [javanile/lanspeed](https://github.com/javanile/lanspeed)  - 
 * [javanile/logo](https://github.com/javanile/logo)  - 
 * [javanile/mariadb](https://github.com/javanile/mariadb)  - 
-* [javanile/mush-get-started](https://github.com/javanile/mush-get-started)  - 🚀 Mush Get Started!
+* [javanile/mush-get-started](https://github.com/javanile/mush-get-started)  - 
 * [javanile/myddleware](https://github.com/javanile/myddleware)  :sleepy: - 
-* [javanile/mysql](https://github.com/javanile/mysql)  - The best MySQL images for your docker compose file.
+* [javanile/mysql](https://github.com/javanile/mysql)  - 
 * [javanile/mysql.javanile.org](https://github.com/javanile/mysql.javanile.org)  - 
-* [javanile/node](https://github.com/javanile/node)  - Dockerized Node.js Environment with Updated npm
+* [javanile/node](https://github.com/javanile/node)  - 
 * [javanile/olint](https://github.com/javanile/olint)  - 
-* [javanile/openmaintainer](https://github.com/javanile/openmaintainer)  - FOSS maintainers network trusted by local groups
-* [javanile/package-manager](https://github.com/javanile/package-manager)  - Packager Manager Jekyll Theme
+* [javanile/openmaintainer](https://github.com/javanile/openmaintainer)  - 
+* [javanile/package-manager](https://github.com/javanile/package-manager)  - 
 * [javanile/path.sh](https://github.com/javanile/path.sh)  :sleepy: - 
 * [javanile/php-file](https://github.com/javanile/php-file)  - 
 * [javanile/php-json](https://github.com/javanile/php-json)  - 
@@ -241,17 +235,15 @@ Object-oriented, fully tested PHP IMAP library
 * [javanile/phpmyadmin](https://github.com/javanile/phpmyadmin)  :sleepy: - 
 * [javanile/powerbar](https://github.com/javanile/powerbar)  - 
 * [javanile/ppa](https://github.com/javanile/ppa)  - 
-* [javanile/r](https://github.com/javanile/r)  - Rust version management
-Rust Version Manager
-Rust Version Manager
+* [javanile/r](https://github.com/javanile/r)  - 
 * [javanile/readme.sh](https://github.com/javanile/readme.sh)  :sleepy: - 
-* [javanile/refine](https://github.com/javanile/refine)  - Rust implementation of Define (a DSL tool)
+* [javanile/refine](https://github.com/javanile/refine)  - 
 * [javanile/rust-cask](https://github.com/javanile/rust-cask)  - 
 * [javanile/scoop-bucket](https://github.com/javanile/scoop-bucket)  - 
 * [javanile/scoop.bat](https://github.com/javanile/scoop.bat)  - 
 * [javanile/services](https://github.com/javanile/services)  - 
 * [javanile/settings-daemon](https://github.com/javanile/settings-daemon)  - 
-* [javanile/shell-stars](https://github.com/javanile/shell-stars)  - Shell Stars
+* [javanile/shell-stars](https://github.com/javanile/shell-stars)  - 
 * [javanile/sponsors](https://github.com/javanile/sponsors)  - 
 * [javanile/status.javanile.org](https://github.com/javanile/status.javanile.org)  - 
 * [javanile/styleci](https://github.com/javanile/styleci)  - 
